@@ -10,7 +10,7 @@ const PRODUCTS = [
     "categoryLabel": "Aesthetic Kitchen",
     "price": "$24.99",
     "rating": 4.2,
-    "reviews": 21948,
+    "reviews": 21949,
     "badge": "Amazon Viral Find",
     "isViral": true,
     "image": "assets/images/b0cyjbb2jq_1.jpg",
