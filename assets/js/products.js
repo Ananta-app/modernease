@@ -8,9 +8,9 @@ const PRODUCTS = [
     "title": "Bella Fits-Anywhere 2-Slice Slim Toaster",
     "category": "kitchen",
     "categoryLabel": "Aesthetic Kitchen",
-    "price": ".99",
-    "rating": 4.8,
-    "reviews": 1200,
+    "price": "$24.99",
+    "rating": 4.2,
+    "reviews": 21948,
     "badge": "Amazon Viral Find",
     "isViral": true,
     "image": "assets/images/b0cyjbb2jq_1.jpg",
@@ -23,10 +23,12 @@ const PRODUCTS = [
       "assets/images/b0cyjbb2jq_6.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0CYJBB2JQ?tag=modernease-20",
-    "description": "Designed for modern homes. Slim 3.58 profile Perfect for elevating your daily routine.",
+    "description": "Designed for modern homes. With a sleek 3.58\" profile, the bella 2-Slice Slim Toaster fits comfortably on any countertop without taking up much space. Part of our Fits-anywhere kitchenware collection, it’s the perfect blend of style and practicality Perfect for elevating your daily routine.",
     "bullets": [
-      "Slim 3.58 profile",
-      "10 inch long slot"
+      "With a sleek 3.58\" profile, the bella 2-Slice Slim Toaster fits comfortably on any countertop without taking up much space. Part of our Fits-anywhere kitchenware collection, it’s the perfect blend of style and practicality",
+      "One Long Slot for Versatile Toasting: The extra-wide, 10-inch long slot accommodates two slices of bread side by side or thick artisan breads like bagels, baguettes, and Texas-style toasts. No more squeezing or cutting—just perfect toast, every time",
+      "Six shade settings with a convenient cancel function allow you to customize your bread to your exact preference, from lightly golden to dark and crispy. Achieve your ideal toast with just a simple turn of the dial",
+      "EASY CLEANUP & CLUTTER-FREE COUNTERTOP: The removable crumb tray slides out for quick cleaning, ensuring your toaster stays tidy and operates efficiently. Plus, the cord wrap feature keeps your countertop neat and free from tangled cords"
     ]
   },
   {
