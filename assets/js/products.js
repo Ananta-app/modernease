@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b07xxsyll8",
+    "title": "Temppro Tempswift Tp19h 1 Sec Instant Read",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$24.99",
+    "rating": 4.7,
+    "reviews": 56567,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b07xxsyll8_1.jpg",
+    "images": [
+      "assets/images/b07xxsyll8_1.jpg",
+      "assets/images/b07xxsyll8_2.jpg",
+      "assets/images/b07xxsyll8_3.jpg",
+      "assets/images/b07xxsyll8_4.jpg",
+      "assets/images/b07xxsyll8_5.jpg",
+      "assets/images/b07xxsyll8_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B07XXSYLL8?tag=modernease-20",
+    "description": "Designed for modern homes. Fast & Accurate: Get precise readings in just 1 second with ±0.9°F accuracy. NSF Certified for trusted food safety, this digital food thermometer features a 4.3 inches food-grade stainless steel meat probe, perfect for grilling, frying, baking, making candy and more Perfect for elevating your daily routine.",
+    "bullets": [
+      "Fast & Accurate: Get precise readings in just 1 second with ±0.9°F accuracy. NSF Certified for trusted food safety, this digital food thermometer features a 4.3 inches food-grade stainless steel meat probe, perfect for grilling, frying, baking, making candy and more",
+      "2.0\" Large Auto-Rotating Backlit Display: A large 2.0-inch backlit display with 180° auto-rotation keeps readings facing you for effortless viewing. This meat thermometer digital is easy to use for both left- and right-handed users, even in low-light conditions",
+      "Motion sensing sleep/wake: The cooking thermometer, one of the kitchen essentials, automatically powers on when the probe opens and off when closed. It wakes instantly when picked up and enters sleep mode after inactivity to save battery. Includes 1 AAA battery for up to 3,000 hours of use",
+      "IP65 Waterproof & Convenient Storage: Quickly and easily clean the grill kitchen thermometer under running water; A magnetic back allows for placement on any metal surface, and the hang hole allows for easy hanging on hooks"
+    ]
+  },
+  {
     "id": "b003oajgjo",
     "title": "Crock-Pot 7-Quart Manual Slow Cooker",
     "category": "kitchen",
