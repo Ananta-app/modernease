@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b003oajgjo",
+    "title": "Crock-Pot 7-Quart Manual Slow Cooker",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$24.99",
+    "rating": 4.6,
+    "reviews": 62809,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b003oajgjo_1.jpg",
+    "images": [
+      "assets/images/b003oajgjo_1.jpg",
+      "assets/images/b003oajgjo_2.jpg",
+      "assets/images/b003oajgjo_3.jpg",
+      "assets/images/b003oajgjo_4.jpg",
+      "assets/images/b003oajgjo_5.jpg",
+      "assets/images/b003oajgjo_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B003OAJGJO?tag=modernease-20",
+    "description": "Designed for modern homes. Generous Capacity: 7-quart slow cooker that comfortably serves 9+ people or fits a 7-pound roast Perfect for elevating your daily routine.",
+    "bullets": [
+      "Generous Capacity: 7-quart slow cooker that comfortably serves 9+ people or fits a 7-pound roast",
+      "Cooking Flexibility: High or low slow cooking settings, with convenient warm function for ideal serving temperature",
+      "Convenient: Set it and forget it feature enables you to cook while at work or performing daily tasks",
+      "Minimal Clean-Up: One-pot cooking reduces dishes; lid and removable stoneware are dishwasher safe"
+    ]
+  },
+  {
     "id": "b0cyjbb2jq",
     "title": "Bella Fits-Anywhere 2-Slice Slim Toaster",
     "category": "kitchen",
