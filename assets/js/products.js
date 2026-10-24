@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b07yp2vh4b",
+    "title": "Kitchenaid Classic Multifunction Can Opener And Bottle",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$24.99",
+    "rating": 4.6,
+    "reviews": 86838,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b07yp2vh4b_1.jpg",
+    "images": [
+      "assets/images/b07yp2vh4b_1.jpg",
+      "assets/images/b07yp2vh4b_2.jpg",
+      "assets/images/b07yp2vh4b_3.jpg",
+      "assets/images/b07yp2vh4b_4.jpg",
+      "assets/images/b07yp2vh4b_5.jpg",
+      "assets/images/b07yp2vh4b_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B07YP2VH4B?tag=modernease-20",
+    "description": "Designed for modern homes. Equipped with a durable, razor sharp stainless steel cutting wheel, this can opener pierces cans easily and slices smoothly for a hassle free experience. Perfect for elevating your daily routine.",
+    "bullets": [
+      "Equipped with a durable, razor sharp stainless steel cutting wheel, this can opener pierces cans easily and slices smoothly for a hassle free experience.",
+      "The oversized, easy to turn knob offers a secure grip, allowing you to open cans with minimal effort and maximum control, ideal for users with limited hand strength.",
+      "Designed with oversized, ergonomic handles that provide a comfortable and secure grip, minimizing hand strain and making it easy to open cans of any size.",
+      "2 IN 1 MULTIFUNCTIONAL TOOL: This tool is equipped with a built in bottle opener, allowing you to easily remove caps in one convenient design, saving space in your kitchen."
+    ]
+  },
+  {
     "id": "b003oajgjo",
     "title": "Crock-Pot 7-Quart Manual Slow Cooker",
     "category": "kitchen",
