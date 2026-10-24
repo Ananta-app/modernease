@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b01gjomwva",
+    "title": "Black+decker 12-Cup Drip Coffee Maker With Vortex",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$24.99",
+    "rating": 4.4,
+    "reviews": 50824,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b01gjomwva_1.jpg",
+    "images": [
+      "assets/images/b01gjomwva_1.jpg",
+      "assets/images/b01gjomwva_2.jpg",
+      "assets/images/b01gjomwva_3.jpg",
+      "assets/images/b01gjomwva_4.jpg",
+      "assets/images/b01gjomwva_5.jpg",
+      "assets/images/b01gjomwva_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B01GJOMWVA?tag=modernease-20",
+    "description": "Designed for modern homes. 12-CUP DURALIFE GLASS CARAFE: The sturdy 12-cup* carafe has measurement markings for accurate filling and an easy-grip handle for comfortable pouring. *Cup equals approximately 5 ounces (varies by brewing technique). Perfect for elevating your daily routine.",
+    "bullets": [
+      "12-CUP DURALIFE GLASS CARAFE: The sturdy 12-cup* carafe has measurement markings for accurate filling and an easy-grip handle for comfortable pouring. *Cup equals approximately 5 ounces (varies by brewing technique).",
+      "SNEAK-A-CUP FEATURE TO PREVENT DRIPS: This feature temporarily stops the flow of coffee so you can pour your first cup before brewing ends without making a mess.",
+      "EASY-VIEW WATER WINDOW: The front-facing window shows you the exact amount of water that will turn into coffee, and the brew basket requires a standard paper coffee filter for proper operation.",
+      "Large, rubberized buttons give you full control of the coffeemaker, and the easy-read screen displays the clock, brew time, and programming options."
+    ]
+  },
+  {
     "id": "b07xxsyll8",
     "title": "Temppro Tempswift Tp19h 1 Sec Instant Read",
     "category": "kitchen",
