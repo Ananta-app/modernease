@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b003oajgjo",
+    "title": "Crock-Pot 7-Quart Manual Slow Cooker",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$24.99",
+    "rating": 4.6,
+    "reviews": 62809,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b003oajgjo_1.jpg",
+    "images": [
+      "assets/images/b003oajgjo_1.jpg",
+      "assets/images/b003oajgjo_2.jpg",
+      "assets/images/b003oajgjo_3.jpg",
+      "assets/images/b003oajgjo_4.jpg",
+      "assets/images/b003oajgjo_5.jpg",
+      "assets/images/b003oajgjo_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B003OAJGJO?tag=modernease-20",
+    "description": "Designed for modern homes. Generous Capacity: 7-quart slow cooker that comfortably serves 9+ people or fits a 7-pound roast Perfect for elevating your daily routine.",
+    "bullets": [
+      "Generous Capacity: 7-quart slow cooker that comfortably serves 9+ people or fits a 7-pound roast",
+      "Cooking Flexibility: High or low slow cooking settings, with convenient warm function for ideal serving temperature",
+      "Convenient: Set it and forget it feature enables you to cook while at work or performing daily tasks",
+      "Minimal Clean-Up: One-pot cooking reduces dishes; lid and removable stoneware are dishwasher safe"
+    ]
+  },
+  {
     "id": "b01gjomwva",
     "title": "Black+decker 12-Cup Drip Coffee Maker With Vortex",
     "category": "kitchen",
@@ -57,34 +85,6 @@ const PRODUCTS = [
       "2.0\" Large Auto-Rotating Backlit Display: A large 2.0-inch backlit display with 180° auto-rotation keeps readings facing you for effortless viewing. This meat thermometer digital is easy to use for both left- and right-handed users, even in low-light conditions",
       "Motion sensing sleep/wake: The cooking thermometer, one of the kitchen essentials, automatically powers on when the probe opens and off when closed. It wakes instantly when picked up and enters sleep mode after inactivity to save battery. Includes 1 AAA battery for up to 3,000 hours of use",
       "IP65 Waterproof & Convenient Storage: Quickly and easily clean the grill kitchen thermometer under running water; A magnetic back allows for placement on any metal surface, and the hang hole allows for easy hanging on hooks"
-    ]
-  },
-  {
-    "id": "b003oajgjo",
-    "title": "Crock-Pot 7-Quart Manual Slow Cooker",
-    "category": "kitchen",
-    "categoryLabel": "Aesthetic Kitchen",
-    "price": "$24.99",
-    "rating": 4.6,
-    "reviews": 62809,
-    "badge": "Amazon Viral Find",
-    "isViral": true,
-    "image": "assets/images/b003oajgjo_1.jpg",
-    "images": [
-      "assets/images/b003oajgjo_1.jpg",
-      "assets/images/b003oajgjo_2.jpg",
-      "assets/images/b003oajgjo_3.jpg",
-      "assets/images/b003oajgjo_4.jpg",
-      "assets/images/b003oajgjo_5.jpg",
-      "assets/images/b003oajgjo_6.jpg"
-    ],
-    "affiliateUrl": "https://www.amazon.com/dp/B003OAJGJO?tag=modernease-20",
-    "description": "Designed for modern homes. Generous Capacity: 7-quart slow cooker that comfortably serves 9+ people or fits a 7-pound roast Perfect for elevating your daily routine.",
-    "bullets": [
-      "Generous Capacity: 7-quart slow cooker that comfortably serves 9+ people or fits a 7-pound roast",
-      "Cooking Flexibility: High or low slow cooking settings, with convenient warm function for ideal serving temperature",
-      "Convenient: Set it and forget it feature enables you to cook while at work or performing daily tasks",
-      "Minimal Clean-Up: One-pot cooking reduces dishes; lid and removable stoneware are dishwasher safe"
     ]
   },
   {
