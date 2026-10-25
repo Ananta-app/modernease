@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0fmphhtm8",
+    "title": "Crock-Pot Design Series 7-Quart Manual Slow Cooker",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$24.99",
+    "rating": 4.6,
+    "reviews": 62824,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0fmphhtm8_1.jpg",
+    "images": [
+      "assets/images/b0fmphhtm8_1.jpg",
+      "assets/images/b0fmphhtm8_2.jpg",
+      "assets/images/b0fmphhtm8_3.jpg",
+      "assets/images/b0fmphhtm8_4.jpg",
+      "assets/images/b0fmphhtm8_5.jpg",
+      "assets/images/b0fmphhtm8_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0FMPHHTM8?tag=modernease-20",
+    "description": "Designed for modern homes. Elevated Design: Streamlined, modern-vintage aesthetic, and vibrant Purple Potato color Perfect for elevating your daily routine.",
+    "bullets": [
+      "Elevated Design: Streamlined, modern-vintage aesthetic, and vibrant Purple Potato color",
+      "3 Manual Cook Settings: High, Low, and Warm—provide flexibility for whatever you are cooking",
+      "Manual Warm Setting: Keeps food at the ideal serving temperature until it's time to eat",
+      "Generous Capacity: 7-quart size feeds 9+ people; perfect for roasts, family meals, and entertaining"
+    ]
+  },
+  {
     "id": "b0h9rb9wm2",
     "title": "Cosori Electric Kettle With Tea Infuser &",
     "category": "kitchen",
