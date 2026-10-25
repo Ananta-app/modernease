@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b01gjomwyc",
+    "title": "Black+decker Cm1160w-1 Cm1160w 12-Cup Programmable Coffeemaker",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$24.99",
+    "rating": 4.3,
+    "reviews": 7345,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b01gjomwyc_1.jpg",
+    "images": [
+      "assets/images/b01gjomwyc_1.jpg",
+      "assets/images/b01gjomwyc_2.jpg",
+      "assets/images/b01gjomwyc_3.jpg",
+      "assets/images/b01gjomwyc_4.jpg",
+      "assets/images/b01gjomwyc_5.jpg",
+      "assets/images/b01gjomwyc_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B01GJOMWYC?tag=modernease-20",
+    "description": "Designed for modern homes. Please refer to user guide or user manual or user guide (provided below in PDF) before first use Perfect for elevating your daily routine.",
+    "bullets": [
+      "Please refer to user guide or user manual or user guide (provided below in PDF) before first use",
+      "Sneak-A-Cup - This feature temporarily stops the flow of coffee so you can pour your first cup before brewing ends without making a mess",
+      "Easy-View Water Window - The front-facing window shows you the exact amount of water that will turn into coffee; Cord Storage: Yes",
+      "Digital Controls with Rubberized Feel - Large, rubberized buttons give you full control of the coffeemaker, and the easy-read screen displays the clock, brew time, and programming options"
+    ]
+  },
+  {
     "id": "b0fmphhtm8",
     "title": "Crock-Pot Design Series 7-Quart Manual Slow Cooker",
     "category": "kitchen",
