@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b07z8g97py",
+    "title": "Black+decker One Touch Coffee Grinder",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$21.93",
+    "rating": 4.5,
+    "reviews": 19768,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b07z8g97py_1.jpg",
+    "images": [
+      "assets/images/b07z8g97py_1.jpg",
+      "assets/images/b07z8g97py_2.jpg",
+      "assets/images/b07z8g97py_3.jpg",
+      "assets/images/b07z8g97py_4.jpg",
+      "assets/images/b07z8g97py_5.jpg",
+      "assets/images/b07z8g97py_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B07Z8G97PY?tag=modernease-20",
+    "description": "Designed for modern homes. STAINLESS STEEL BLADES AND BOWL - The sharp blades and durable grinding bowl are built to last, delivering uniform grinds with every use Perfect for elevating your daily routine.",
+    "bullets": [
+      "STAINLESS STEEL BLADES AND BOWL - The sharp blades and durable grinding bowl are built to last, delivering uniform grinds with every use",
+      "GRIND YOUR FAVORITES! - Stainless steel blades quickly grind your favorite coffee beans, herbs, spices, grains, and more",
+      "ONE TOUCH PUSH-BUTTON CONTROL - Intuitive push-button control lets you easily customize the grind consistency, from coarse to fine",
+      "LID-LOCKING SAFETY FEATURE - No spills, no accidents. The integrated safety mechanism allows the blades to turn on only when the lid is securely locked"
+    ]
+  },
+  {
     "id": "b01gjomwyc",
     "title": "Black+decker Cm1160w-1 Cm1160w 12-Cup Programmable Coffeemaker",
     "category": "kitchen",
