@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0dq6pp1zv",
+    "title": "Bella Fits-Anywhere 2-Slice Slim Toaster",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$29.99",
+    "rating": 4.2,
+    "reviews": 22078,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0dq6pp1zv_1.jpg",
+    "images": [
+      "assets/images/b0dq6pp1zv_1.jpg",
+      "assets/images/b0dq6pp1zv_2.jpg",
+      "assets/images/b0dq6pp1zv_3.jpg",
+      "assets/images/b0dq6pp1zv_4.jpg",
+      "assets/images/b0dq6pp1zv_5.jpg",
+      "assets/images/b0dq6pp1zv_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0DQ6PP1ZV?tag=modernease-20",
+    "description": "Designed for modern homes. Slim Design, Big Impact: With a sleek 3.58\" profile, the bella 2-Slice Slim Toaster fits comfortably on any countertop without taking up much space. Part of our Fits-anywhere kitchenware collection, it’s the perfect blend of style and practicality Perfect for elevating your daily routine.",
+    "bullets": [
+      "Slim Design, Big Impact: With a sleek 3.58\" profile, the bella 2-Slice Slim Toaster fits comfortably on any countertop without taking up much space. Part of our Fits-anywhere kitchenware collection, it’s the perfect blend of style and practicality",
+      "One Long Slot for Versatile Toasting: The extra-wide, 10-inch long slot accommodates two slices of bread side by side or thick artisan breads like bagels, baguettes, and Texas-style toasts. No more squeezing or cutting—just perfect toast, every time",
+      "Toasted Perfection: Six shade settings with a convenient cancel function allow you to customize your bread to your exact preference, from lightly golden to dark and crispy. Achieve your ideal toast with just a simple turn of the dial",
+      "Easy Cleanup & Clutter-Free Countertop: The removable crumb tray slides out for quick cleaning, ensuring your smart toaster stays tidy and operates efficiently. Plus, the cord wrap feature keeps your countertop neat and free from tangled cords"
+    ]
+  },
+  {
     "id": "b0cyjbb2jq",
     "title": "Bella Fits-Anywhere 2-Slice Slim Toaster",
     "category": "kitchen",
