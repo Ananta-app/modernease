@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0cyzq374r",
+    "title": "Chicken Shredder Tool Twist Large Meat Shredder",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$22.99",
+    "rating": 4.7,
+    "reviews": 26583,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0cyzq374r_1.jpg",
+    "images": [
+      "assets/images/b0cyzq374r_1.jpg",
+      "assets/images/b0cyzq374r_2.jpg",
+      "assets/images/b0cyzq374r_3.jpg",
+      "assets/images/b0cyzq374r_4.jpg",
+      "assets/images/b0cyzq374r_5.jpg",
+      "assets/images/b0cyzq374r_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0CYZQ374R?tag=modernease-20",
+    "description": "Designed for modern homes. 2024 DOPAMINE COLOR IN OUR CHICKEN SHREDDER: Spring and Summer are coming soon, we choose some bright and vibrant colors to arouse people's inner joy and positive emotions. In daily life, a colorful meat shredder can convey happiness and a positive attitude toward life. Our chicken shredder is a new kitchen essential, which helps people take literally a couple of minutes to shred their food and no burnt fingers tips, it is an amazing tool Perfect for elevating your daily routine.",
+    "bullets": [
+      "2024 DOPAMINE COLOR IN OUR CHICKEN SHREDDER: Spring and Summer are coming soon, we choose some bright and vibrant colors to arouse people's inner joy and positive emotions. In daily life, a colorful meat shredder can convey happiness and a positive attitude toward life. Our chicken shredder is a new kitchen essential, which helps people take literally a couple of minutes to shred their food and no burnt fingers tips, it is an amazing tool",
+      "MUST HAVE KITCHEN GADGETS & ANTI-SLIP: Our chicken shredder tool upgrade the inner shred structure and strong anti-slip strip, more effective and saves time, we do not worry about sliding away from our kitchen desks again. The flower appearance design and the transparent lid add polka dots seem like a beautiful flower to bloom. Warm Tips: the rubber strip can be taken apart by yourself, easy to clean, if the part is missing, you can purchase a new fitting in our store",
+      "The meat machine builts-in plastic teeth that cover the whole area which can tightly clamp the food, the lid has extra spikes on the edge, which help meat gather the shredded meat in the middle, cutting it evenly. the tool is applied with an ergonomic handle and an anti-slip base, ensuring comfort and easy operation even during heavy use. These updated structure designs can make your cooking tasks more efficient",
+      "FOOD GRADE MATERIAL&DISHWASHER SAFE: The meat shredder tool twist is made of high-quality food grade material, BPA free and heat resistant up to 356℉. Never worry about your plastic chicken grinder shredder melting near the grill or in the dishwasher. The package comes with a cleaning brush, so we can wash it by hand and clean it easier. The instruction can guide us on how to shred chicken breast, please carefully read it"
+    ]
+  },
+  {
     "id": "b0cjf7kshk",
     "title": "Trendplain 16oz Olive Oil Sprayer For Cooking",
     "category": "kitchen",
