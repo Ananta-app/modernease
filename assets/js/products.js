@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0cjf7kshk",
+    "title": "Trendplain 16oz Olive Oil Sprayer For Cooking",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$9.99",
+    "rating": 4.6,
+    "reviews": 49206,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0cjf7kshk_1.jpg",
+    "images": [
+      "assets/images/b0cjf7kshk_1.jpg",
+      "assets/images/b0cjf7kshk_2.jpg",
+      "assets/images/b0cjf7kshk_3.jpg",
+      "assets/images/b0cjf7kshk_4.jpg",
+      "assets/images/b0cjf7kshk_5.jpg",
+      "assets/images/b0cjf7kshk_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0CJF7KSHK?tag=modernease-20",
+    "description": "Designed for modern homes. Lifetime Warranty: We stand behind this kitchen and dining essential with responsive lifetime support. If performance falls short, contact us for a practical solution. Built for daily use, it works naturally with kitchen gadgets and kitchen tools. Perfect for elevating your daily routine.",
+    "bullets": [
+      "Lifetime Warranty: We stand behind this kitchen and dining essential with responsive lifetime support. If performance falls short, contact us for a practical solution. Built for daily use, it works naturally with kitchen gadgets and kitchen tools.",
+      "Dual Spray and Dispense System: This olive oil spray bottle gives a broad fine mist with a quick press and a steady pour with a slow press. Use it beside kitchen utensils and cooking utensils for controlled prep without changing containers.",
+      "Measured 0.15g Spray: Each full press releases 0.15g for consistent cooking spray with avocado oil spray or olive oil spray. Use with air fryer accessories, griddle accessories and BBQ accessories for even coverage, less excess and healthier meals.",
+      "BPA-Free Food-Contact Glass: Non-toxic, odorless and heat-resistant materials protect every refill. Designed for daily kitchen accessories, the bottle fits naturally with kitchen decor and accessories, kitchen supplies and kitchen necessities."
+    ]
+  },
+  {
     "id": "b0dq6pp1zv",
     "title": "Bella Fits-Anywhere 2-Slice Slim Toaster",
     "category": "kitchen",
