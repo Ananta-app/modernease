@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b08n9q24m9",
+    "title": "Mueller The Real Original Pro Vegetable Chopper",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$49.99",
+    "rating": 4.5,
+    "reviews": 34499,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b08n9q24m9_1.jpg",
+    "images": [
+      "assets/images/b08n9q24m9_1.jpg",
+      "assets/images/b08n9q24m9_2.jpg",
+      "assets/images/b08n9q24m9_3.jpg",
+      "assets/images/b08n9q24m9_4.jpg",
+      "assets/images/b08n9q24m9_5.jpg",
+      "assets/images/b08n9q24m9_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B08N9Q24M9?tag=modernease-20",
+    "description": "Designed for modern homes. Premium grade 420 stainless steel blades and BPA-free materials for safe, long-lasting performance. Perfect for elevating your daily routine.",
+    "bullets": [
+      "Premium grade 420 stainless steel blades and BPA-free materials for safe, long-lasting performance.",
+      "8 interchangeable blades slice, dice, chop, grate and shred vegetables, fruits, cheese, nuts and more.",
+      "Innovative design with food container and holder keeps ingredients in place and counters clean.",
+      "Makes home cooking quick, easy and healthy. Perfect for busy cooks and families."
+    ]
+  },
+  {
     "id": "b0gqm5vh3d",
     "title": "Electric Salt And Pepper Grinder Set",
     "category": "kitchen",
