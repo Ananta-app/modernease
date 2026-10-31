@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0f8trcrbr",
+    "title": "Doosu Kitchen Tongs With Silicone Tips For",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$19.99",
+    "rating": 4.8,
+    "reviews": 444,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0f8trcrbr_1.jpg",
+    "images": [
+      "assets/images/b0f8trcrbr_1.jpg",
+      "assets/images/b0f8trcrbr_2.jpg",
+      "assets/images/b0f8trcrbr_3.jpg",
+      "assets/images/b0f8trcrbr_4.jpg",
+      "assets/images/b0f8trcrbr_5.jpg",
+      "assets/images/b0f8trcrbr_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0F8TRCRBR?tag=modernease-20",
+    "description": "Designed for modern homes. What material is Doosu food tong made of? Crafted from premium 18/8 stainless steel and silicone, Doosu kitchen tong is built to last, rust-proof and corrosion-resistant. The sturdy metal body resists bending, warping, and breaking, even under heavy use or when lifting large portions of food. Unlike other tongs with sharp or poorly finished edges that cause discomfort or even cuts, our stainless steel tong features smooth, rounded handle cushioned with silicon for a comfortable hold. Perfect for elevating your daily routine.",
+    "bullets": [
+      "What material is Doosu food tong made of? Crafted from premium 18/8 stainless steel and silicone, Doosu kitchen tong is built to last, rust-proof and corrosion-resistant. The sturdy metal body resists bending, warping, and breaking, even under heavy use or when lifting large portions of food. Unlike other tongs with sharp or poorly finished edges that cause discomfort or even cuts, our stainless steel tong features smooth, rounded handle cushioned with silicon for a comfortable hold.",
+      "Are tips heat-resistant and non-scratch? The tips of the tong are coated with high-quality, food grade silicone that is heat-resistant up to 600°F (315°C), making them safe for directly handling hot foods from the oven, stovetop, or grill. Unlike metal-tipped tongs, the soft silicone tip won’t scratch or damage non-stick pans or grill grates. The scalloped edges are specially designed to provide a secure, non-slip grip, easy to grasp delicate vegetables, smooth meat, or small pieces of food.",
+      "Do silicone handles provide a comfortable grip? The handles are fitted with soft, non-slip silicone pads, offering a secure and comfortable grip—even when your hands are wet or greasy. The ergonomic handle design, complete with a built-in thumb rest, reduces hand fatigue and allows for better control when you grab, toss, turn, flip, lift and serve food. The heat-resistant silicone cushioning also adds a layer of protection, helping to shield your hands from burns during high-heat cooking.",
+      "Do the cooking tongs lock closed for easy storage? Each tong features a ring-pull locking mechanism for compact storage. Simply pull the ring to lock the tong, and push it to release. The smooth pull-down design prevents accidental opening and ensures the tong stay securely locked, saving space in your kitchen drawer or utensil holder. The ring also doubles as a loop — convenient to hang on the wall racks. Heavy-duty spring offers strong tension and quick rebound for a firm, responsive grip."
+    ]
+  },
+  {
     "id": "b0c4z39tk9",
     "title": "Chefman Xl Electric Griddle With Removable Temperature",
     "category": "kitchen",
