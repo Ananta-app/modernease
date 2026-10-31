@@ -4,6 +4,33 @@
 
 const PRODUCTS = [
   {
+    "id": "b0ck9hj7s2",
+    "title": "Elite Gourmet 24 Oz Electric Citrus Juicer",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$19.99",
+    "rating": 4.6,
+    "reviews": 1280,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0ck9hj7s2_1.jpg",
+    "images": [
+      "assets/images/b0ck9hj7s2_1.jpg",
+      "assets/images/b0ck9hj7s2_2.jpg",
+      "assets/images/b0ck9hj7s2_3.jpg",
+      "assets/images/b0ck9hj7s2_4.jpg",
+      "assets/images/b0ck9hj7s2_5.jpg",
+      "assets/images/b0ck9hj7s2_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0CK9HJ7S2?tag=modernease-20",
+    "description": "Effortless fresh citrus juicing with auto-reversing cones and 24 oz capacity. Perfect for modern kitchens.",
+    "bullets": [
+      "40W Motor: Extracts more juice faster than standard 25W models",
+      "24 Oz Capacity: Makes up to 3 cups at a time for the whole family",
+      "Dishwasher Safe: Removable parts make cleanup completely effortless"
+    ]
+  },
+  {
     "id": "b0f8trcrbr",
     "title": "Doosu Kitchen Tongs With Silicone Tips For",
     "category": "kitchen",
