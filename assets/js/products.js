@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0d3wjpxwl",
+    "title": "Dash Rapid Egg Cooker",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$2.43",
+    "rating": 4.5,
+    "reviews": 521,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0d3wjpxwl_1.jpg",
+    "images": [
+      "assets/images/b0d3wjpxwl_1.jpg",
+      "assets/images/b0d3wjpxwl_2.jpg",
+      "assets/images/b0d3wjpxwl_3.jpg",
+      "assets/images/b0d3wjpxwl_4.jpg",
+      "assets/images/b0d3wjpxwl_5.jpg",
+      "assets/images/b0d3wjpxwl_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0D3WJPXWL?tag=modernease-20",
+    "description": "Designed for modern homes. Dash Rapid Egg Cooker: The original and most trusted egg cooker on the market, cooks eggs to desired doneness Perfect for elevating your daily routine.",
+    "bullets": [
+      "Dash Rapid Egg Cooker: The original and most trusted egg cooker on the market, cooks eggs to desired doneness",
+      "Cooking Time: Makes soft, medium, and hard boiled eggs in 12 minutes or less",
+      "Included Components: Comes with steamer base, egg holder accessory, and poaching tray accessory",
+      "Product Type: Countertop food steamer with a capacity of 7 loads"
+    ]
+  },
+  {
     "id": "b07sgp2jsl",
     "title": "Bestoffice",
     "category": "kitchen",
