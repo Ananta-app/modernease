@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b091jxdldx",
+    "title": "Stainless Steel Measuring Cups & Spoons Set",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$15.99",
+    "rating": 4.8,
+    "reviews": 7811,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b091jxdldx_1.jpg",
+    "images": [
+      "assets/images/b091jxdldx_1.jpg",
+      "assets/images/b091jxdldx_2.jpg",
+      "assets/images/b091jxdldx_3.jpg",
+      "assets/images/b091jxdldx_4.jpg",
+      "assets/images/b091jxdldx_5.jpg",
+      "assets/images/b091jxdldx_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B091JXDLDX?tag=modernease-20",
+    "description": "Designed for modern homes. [Multiple Sizes]: Including 4 Measuring cups ( 1/4, 1/3, 1/2, 1 cup), 6 Measuring spoons (1/8, 1/4, 1/2 , 1 tsp, 1/2, 1 tbsp). Meet All Your Needs On Cooking And Baking Perfect for elevating your daily routine.",
+    "bullets": [
+      "[Multiple Sizes]: Including 4 Measuring cups ( 1/4, 1/3, 1/2, 1 cup), 6 Measuring spoons (1/8, 1/4, 1/2 , 1 tsp, 1/2, 1 tbsp). Meet All Your Needs On Cooking And Baking",
+      "[Premium Material]: The measuring cups made of Food-Grade 18/8 Stainless Steel. The measuring spoon made of premium Food-Grade Stainless Steel.100% rust-resistant, no toxic elements, which is safe to use for both dry and wet ingredients",
+      "[Easy Cleaning]: Stackable professional metal measuring spoons and cups set is dishwasher safe. Perfect solution to cheap plastic measuring sets",
+      "[EASY TO USE]: Each measuring cup and measuring spoon have engraved clearly the size mark. No more guess in kitchen"
+    ]
+  },
+  {
     "id": "b0cyzq374r",
     "title": "Chicken Shredder Tool Twist Large Meat Shredder",
     "category": "kitchen",
