@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b07sgp2jsl",
+    "title": "Bestoffice",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$69.99",
+    "rating": 4.1,
+    "reviews": 21983,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b07sgp2jsl_1.jpg",
+    "images": [
+      "assets/images/b07sgp2jsl_1.jpg",
+      "assets/images/b07sgp2jsl_2.jpg",
+      "assets/images/b07sgp2jsl_3.jpg",
+      "assets/images/b07sgp2jsl_4.jpg",
+      "assets/images/b07sgp2jsl_5.jpg",
+      "assets/images/b07sgp2jsl_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B07SGP2JSL?tag=modernease-20",
+    "description": "Designed for modern homes. AUTOMATIC & HYGIENIC – The touchless sensor lid opens and closes automatically, keeping your hands clean and ensuring a noiseless, sanitary trash experience. Perfect for elevating your daily routine.",
+    "bullets": [
+      "AUTOMATIC & HYGIENIC – The touchless sensor lid opens and closes automatically, keeping your hands clean and ensuring a noiseless, sanitary trash experience.",
+      "MODERN & DURABLE DESIGN – Made of premium stainless steel with a fingerprint-resistant finish. The sleek oval body and sloping lid design fit seamlessly into kitchens, bathrooms, bedrooms, and offices.",
+      "POWERED BY 4 C BATTERIES (NOT INCLUDED) – Uses 4× C-cell batteries for long performance: Supports 40,000+ openings for long-lasting use. Alkaline batteries are recommended for best performance. For best results, install with correct polarity, switch ON before use, and place the can in a cool, dry, ventilated area to protect electronic components.",
+      "ODOR CONTROL & EASY CARE – Keep the lid closed to minimize odor. The stainless steel surface is easy to maintain—just wipe with a dry towel for regular care."
+    ]
+  },
+  {
     "id": "b08n9q24m9",
     "title": "Mueller The Real Original Pro Vegetable Chopper",
     "category": "kitchen",
