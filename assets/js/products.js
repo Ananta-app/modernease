@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b07gtc4ncv",
+    "title": "Tovolo Collapsible Microwave Splatter Cover 10.5\" Medium",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$9.99",
+    "rating": 4.6,
+    "reviews": 84295,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b07gtc4ncv_1.jpg",
+    "images": [
+      "assets/images/b07gtc4ncv_1.jpg",
+      "assets/images/b07gtc4ncv_2.jpg",
+      "assets/images/b07gtc4ncv_3.jpg",
+      "assets/images/b07gtc4ncv_4.jpg",
+      "assets/images/b07gtc4ncv_5.jpg",
+      "assets/images/b07gtc4ncv_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B07GTC4NCV?tag=modernease-20",
+    "description": "Designed for modern homes. Microwave Cover: This microwave splatter cover keeps your microwave spotless while heating food evenly, with a clever vented design that releases steam perfectly every time you reheat leftovers or warm up meals Perfect for elevating your daily routine.",
+    "bullets": [
+      "Microwave Cover: This microwave splatter cover keeps your microwave spotless while heating food evenly, with a clever vented design that releases steam perfectly every time you reheat leftovers or warm up meals",
+      "Food-Safe Materials: This silicone microwave splatter cover features durable, BPA-Free construction that ensures safe food contact",
+      "Multiple Uses: Save valuable kitchen space with this multipurpose microwave plate cover, which doubles as a colander, allowing water to drain through the perforated holes for a quick and easy way to rinse fresh produce, fruit, veggies, and more",
+      "Fits Standard Microwaves: This medium microwave splatter cover measures 10.5 inches long by 10.5 inches wide by 3 inches tall, fitting over most plates and bowls less than 10 inches in diameter"
+    ]
+  },
+  {
     "id": "b091jxdldx",
     "title": "Stainless Steel Measuring Cups & Spoons Set",
     "category": "kitchen",
