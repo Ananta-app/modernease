@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0c4z39tk9",
+    "title": "Chefman Xl Electric Griddle With Removable Temperature",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$49.99",
+    "rating": 4.5,
+    "reviews": 6333,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0c4z39tk9_1.jpg",
+    "images": [
+      "assets/images/b0c4z39tk9_1.jpg",
+      "assets/images/b0c4z39tk9_2.jpg",
+      "assets/images/b0c4z39tk9_3.jpg",
+      "assets/images/b0c4z39tk9_4.jpg",
+      "assets/images/b0c4z39tk9_5.jpg",
+      "assets/images/b0c4z39tk9_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0C4Z39TK9?tag=modernease-20",
+    "description": "Designed for modern homes. EXTRA-LARGE COOKING SURFACE: The 10 x 20 inch indoor grill provides plenty of space to cook up big batches for a crowd or a complete meal. Perfect for elevating your daily routine.",
+    "bullets": [
+      "EXTRA-LARGE COOKING SURFACE: The 10 x 20 inch indoor grill provides plenty of space to cook up big batches for a crowd or a complete meal.",
+      "Adjustable temperature control from 200-420°F allows for versatile cooking for simply warming foods, frying breakfast favorites, or cooking meat.",
+      "Cook healthier meals with the drip tray to collect excess oil and grease plus the non-stick electric grill surface reduces the need for added cooking oils.",
+      "The griddle grill cook top is fully immersible and dishwasher safe - simply remove the temperature control prior to washing."
+    ]
+  },
+  {
     "id": "b005kdeiz0",
     "title": "Rubbermaid Commercial Products Stainless Steel Oven Monitoring",
     "category": "kitchen",
