@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0gqm5vh3d",
+    "title": "Electric Salt And Pepper Grinder Set",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$36.99",
+    "rating": 4.6,
+    "reviews": 5359,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0gqm5vh3d_1.jpg",
+    "images": [
+      "assets/images/b0gqm5vh3d_1.jpg",
+      "assets/images/b0gqm5vh3d_2.jpg",
+      "assets/images/b0gqm5vh3d_3.jpg",
+      "assets/images/b0gqm5vh3d_4.jpg",
+      "assets/images/b0gqm5vh3d_5.jpg",
+      "assets/images/b0gqm5vh3d_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0GQM5VH3D?tag=modernease-20",
+    "description": "Designed for modern homes. ⚡ 【𝗘𝗰𝗼-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗙𝗮𝘀𝘁 𝗖𝗵𝗮𝗿𝗴𝗲,𝗖𝗼𝗼𝗸 𝗙𝗿𝗲𝘀𝗵 𝗪𝗮𝗶𝘁 𝗟𝗲𝘀𝘀】This rechargeable salt and pepper grinder set powers up in just 5 minutes for an entire meal, while a full charge lasts up to 2 months. Ditch disposable batteries for hassle-free, eco-conscious cooking. A practical kitchen essential for everyday cooking, meal prep, family dinners, and home cooks. Perfect for elevating your daily routine.",
+    "bullets": [
+      "⚡ 【𝗘𝗰𝗼-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗙𝗮𝘀𝘁 𝗖𝗵𝗮𝗿𝗴𝗲,𝗖𝗼𝗼𝗸 𝗙𝗿𝗲𝘀𝗵 𝗪𝗮𝗶𝘁 𝗟𝗲𝘀𝘀】This rechargeable salt and pepper grinder set powers up in just 5 minutes for an entire meal, while a full charge lasts up to 2 months. Ditch disposable batteries for hassle-free, eco-conscious cooking. A practical kitchen essential for everyday cooking, meal prep, family dinners, and home cooks.",
+      "🧂 【𝟲 𝗟𝗲𝘃𝗲𝗹 𝗘𝘅𝘁𝗲𝗿𝗶𝗼𝗿 𝗔𝗱𝗷𝘂𝘀𝘁𝗺𝗲𝗻𝘁 𝗳𝗼𝗿 𝗖𝗹𝗲𝗮𝗻 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻】Our external adjustment design lets you easily select the perfect coarseness without touching the grinding outlet, keeping your hands clean. With 6 grind settings, it easily meets different cooking needs. A thoughtful gift for women, men, mom, dad, couples, and cooking lovers for any special occasion.",
+      "🧂 【𝗪𝗶𝗱𝗲-𝗢𝗽𝗲𝗻𝗶𝗻𝗴 𝗟𝗮𝗿𝗴𝗲 𝗛𝗼𝗽𝗽𝗲𝗿, 𝗘𝗮𝘀𝘆 𝗙𝗶𝗹𝗹𝗶𝗻𝗴 & 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴】The 100ml (3.74oz) large hopper holds more spices and reduces frequent refills, while the wide opening makes filling and cleaning quick and easy. Perfect for housewarming gifts, new homes, apartments, wedding registries, and new homeowners.",
+      "💯 【𝗗𝘂𝗿𝗮𝗯𝗹𝗲 𝗖𝗲𝗿𝗮𝗺𝗶𝗰 𝗚𝗿𝗶𝗻𝗱𝗶𝗻𝗴 𝗖𝗼𝗿𝗲, 𝗣𝗿𝗲𝘀𝗲𝗿𝘃𝗲𝘀 𝗣𝘂𝗿𝗲 𝗙𝗹𝗮𝘃𝗼𝗿】High-hardness ceramic blades deliver even grinding while preserving the natural flavor of your spices. The included cleaning brush helps remove residue and prevent clogging. A modern kitchen gift for chefs, food lovers, friends, and family who enjoy smart kitchen gadgets."
+    ]
+  },
+  {
     "id": "b07gtc4ncv",
     "title": "Tovolo Collapsible Microwave Splatter Cover 10.5\" Medium",
     "category": "kitchen",
