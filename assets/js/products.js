@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b005kdeiz0",
+    "title": "Rubbermaid Commercial Products Stainless Steel Oven Monitoring",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$10.85",
+    "rating": 4.5,
+    "reviews": 46390,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b005kdeiz0_1.jpg",
+    "images": [
+      "assets/images/b005kdeiz0_1.jpg",
+      "assets/images/b005kdeiz0_2.jpg",
+      "assets/images/b005kdeiz0_3.jpg",
+      "assets/images/b005kdeiz0_4.jpg",
+      "assets/images/b005kdeiz0_5.jpg",
+      "assets/images/b005kdeiz0_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B005KDEIZ0?tag=modernease-20",
+    "description": "Designed for modern homes. Thermometer displays true oven temperature instantly to ensure safe food preparation Perfect for elevating your daily routine.",
+    "bullets": [
+      "Thermometer displays true oven temperature instantly to ensure safe food preparation",
+      "Thermometer reads between 60° and 580° degrees Fahrenheit / 20° and 300° degrees Celsius",
+      "Designed for professional kitchens with the highest quality in mind. Works perfectly in any home or commercial space",
+      "This product is perfect for traditional ovens, toaster ovens, grills, smokers, or any heat based food appliance"
+    ]
+  },
+  {
     "id": "b0d3wjpxwl",
     "title": "Dash Rapid Egg Cooker",
     "category": "kitchen",
