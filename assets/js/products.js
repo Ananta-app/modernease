@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b00deqdeza",
+    "title": "Ovente 1.7l Electric Tea Kettle",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$15.99",
+    "rating": 4.4,
+    "reviews": 60252,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b00deqdeza_1.jpg",
+    "images": [
+      "assets/images/b00deqdeza_1.jpg",
+      "assets/images/b00deqdeza_2.jpg",
+      "assets/images/b00deqdeza_3.jpg",
+      "assets/images/b00deqdeza_4.jpg",
+      "assets/images/b00deqdeza_5.jpg",
+      "assets/images/b00deqdeza_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B00DEQDEZA?tag=modernease-20",
+    "description": "Designed for modern homes. BOILS WATER IN A FLASH – Powered by 1100W, this 1.7L electric kettle quickly boils enough water for multiple cups at once. It’s also 50% more efficient than traditional stovetop kettles, helping reduce daily electricity use. Perfect for elevating your daily routine.",
+    "bullets": [
+      "BOILS WATER IN A FLASH – Powered by 1100W, this 1.7L electric kettle quickly boils enough water for multiple cups at once. It’s also 50% more efficient than traditional stovetop kettles, helping reduce daily electricity use.",
+      "DURABILITY WITH STYLE – Add a modern touch to your kitchen with trendy colors, while enjoying lasting performance from the stainless-steel concealed heating element. Unlike exposed elements that deteriorate faster, it’s designed for long-term use.",
+      "CLEANEST DRINKING WATER – BPA-free construction helps ensure clean, safe water for you and your family. The removable spout filter helps keep water debris-free and slides out easily for cleaning, then back in for convenient everyday use.",
+      "SAFE AND WORRY-FREE BOILING – Auto shut-off turns the kettle off when water reaches a boil, while boil-dry protection stops heating when no water is detected. Built-in cord storage helps keep the base and countertop neat and organized."
+    ]
+  },
+  {
     "id": "b0ck9hj7s2",
     "title": "Elite Gourmet 24 Oz Electric Citrus Juicer",
     "category": "kitchen",
