@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b07s2628r9",
+    "title": "Amazon Basics 1800w Portable Electric Induction Cooktop",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$49.47",
+    "rating": 4.1,
+    "reviews": 1550,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b07s2628r9_1.jpg",
+    "images": [
+      "assets/images/b07s2628r9_1.jpg",
+      "assets/images/b07s2628r9_2.jpg",
+      "assets/images/b07s2628r9_3.jpg",
+      "assets/images/b07s2628r9_4.jpg",
+      "assets/images/b07s2628r9_5.jpg",
+      "assets/images/b07s2628r9_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B07S2628R9?tag=modernease-20",
+    "description": "Designed for modern homes. FLEXIBLE & SPACE-SAVING: This versatile portable induction stovetop allows you to cook meals without a full range, making it the perfect solution for RVs, cabins, studio apartments, and other small spaces where a full kitchen isn't available. Perfect for elevating your daily routine.",
+    "bullets": [
+      "FLEXIBLE & SPACE-SAVING: This versatile portable induction stovetop allows you to cook meals without a full range, making it the perfect solution for RVs, cabins, studio apartments, and other small spaces where a full kitchen isn't available.",
+      "With 8 power levels (300-1800 watts) and temperature range 160-440°F (71-226°C), this cooktop accommodates a wide range of cooking methods: simmering, keeping warm, reheating, pan frying, stir frying, boiling, steaming, roasting, or grilling. Ideal for continuous heating but not recommended for slow or low temperature cooking.",
+      "Convenient pre-set cooking modes and a 3-hour timer make meal planning and execution effortless. The user-friendly LED display features intuitive cooking function controls for seamless meal preparation.",
+      "Advanced safety features include a child lock, auto-pause function, overheat protection, and voltage warning system."
+    ]
+  },
+  {
     "id": "b0frhcmbg3",
     "title": "Oster Nonstick Belgian Waffle Maker",
     "category": "kitchen",
