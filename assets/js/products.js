@@ -4,6 +4,33 @@
 
 const PRODUCTS = [
   {
+    "id": "b07yp9dccm",
+    "title": "Kitchenaid Kq908 Glass Surface 11 Pound Capacity",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$23.99",
+    "rating": 4.4,
+    "reviews": 2358,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b07yp9dccm_1.jpg",
+    "images": [
+      "assets/images/b07yp9dccm_1.jpg",
+      "assets/images/b07yp9dccm_2.jpg",
+      "assets/images/b07yp9dccm_3.jpg",
+      "assets/images/b07yp9dccm_4.jpg",
+      "assets/images/b07yp9dccm_5.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B07YP9DCCM?tag=modernease-20",
+    "description": "Designed for modern homes. Dry ingredients: 11 LB X 0.1 Oz and 5000 grams x 1 gram Liquid ingredients: 5000 millilitre x 1 millilitre and 176 FL Oz x 0.1 FL Oz Perfect for elevating your daily routine.",
+    "bullets": [
+      "Dry ingredients: 11 LB X 0.1 Oz and 5000 grams x 1 gram Liquid ingredients: 5000 millilitre x 1 millilitre and 176 FL Oz x 0.1 FL Oz",
+      "Rotating knob design inspired by KitchenAid countertop electric ovens. Twist to set the units of measurement and push to Tare or power on/off",
+      "Weigh all ingredients into one container by using the Tare feature to zero out weights in-between additions. Also works to zero the weight of any container before adding food",
+      "Powered by three (3) AAA batteries, included. Scale can be powered off of will auto shut-off after a 3 minutes of no change inweight on the platform"
+    ]
+  },
+  {
     "id": "b07hjqcsxh",
     "title": "Ovente Electric Double Burner",
     "category": "kitchen",
