@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b000ax13us",
+    "title": "Goodcook Safe-Cut Can Opener With Easy Turn",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$11.73",
+    "rating": 4.5,
+    "reviews": 19818,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b000ax13us_1.jpg",
+    "images": [
+      "assets/images/b000ax13us_1.jpg",
+      "assets/images/b000ax13us_2.jpg",
+      "assets/images/b000ax13us_3.jpg",
+      "assets/images/b000ax13us_4.jpg",
+      "assets/images/b000ax13us_5.jpg",
+      "assets/images/b000ax13us_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B000AX13US?tag=modernease-20",
+    "description": "Designed for modern homes. HANDS-FREE LID DISPOSAL: This can top remover lifts the lid off and holds it until you’re ready to dispose of it. Just pivot the handle to release the lid into the trash. There is no need to ever touch the lid to dispose. Perfect for elevating your daily routine.",
+    "bullets": [
+      "HANDS-FREE LID DISPOSAL: This can top remover lifts the lid off and holds it until you’re ready to dispose of it. Just pivot the handle to release the lid into the trash. There is no need to ever touch the lid to dispose.",
+      "Cut lids have a clean, safe edge that is suitable for short-term storage of leftover food. Pop the lid back on the can and refrigerate until you’re ready to finish your food.",
+      "With this safe cut can opener, the cutting wheel never contacts the food, so there's no chance of contamination. Open cans with peace of mind, even for messy contents.",
+      "Crafted from durable chrome, this manual can opener is built to last through years of daily use. It feels substantial in your hand and operates smoothly every time."
+    ]
+  },
+  {
     "id": "b078jxfbdp",
     "title": "Kitchenaid Large Capacity Full Size Rust Resistant",
     "category": "kitchen",
