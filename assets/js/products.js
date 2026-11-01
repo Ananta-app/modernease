@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b078jxfbdp",
+    "title": "Kitchenaid Large Capacity Full Size Rust Resistant",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$97.99",
+    "rating": 4.5,
+    "reviews": 22633,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b078jxfbdp_1.jpg",
+    "images": [
+      "assets/images/b078jxfbdp_1.jpg",
+      "assets/images/b078jxfbdp_2.jpg",
+      "assets/images/b078jxfbdp_3.jpg",
+      "assets/images/b078jxfbdp_4.jpg",
+      "assets/images/b078jxfbdp_5.jpg",
+      "assets/images/b078jxfbdp_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B078JXFBDP?tag=modernease-20",
+    "description": "Designed for modern homes. This full size dish rack offers ample space for plates, mugs, glasses, bowls, utensils, and even larger items like pots and pans. Please refer to product dimensions to ensure an ideal fit for your countertop. Perfect for elevating your daily routine.",
+    "bullets": [
+      "This full size dish rack offers ample space for plates, mugs, glasses, bowls, utensils, and even larger items like pots and pans. Please refer to product dimensions to ensure an ideal fit for your countertop.",
+      "Equipped with soft, anti slip feet, this dish rack stays securely in place, protecting surfaces and providing stability even on smooth countertops.",
+      "Constructed with heavy duty satin coated steel wires, this dish rack is designed to resist rusting and stand up to daily kitchen use. To maintain optimal rust resistance, dry the rack and drainboard after use.",
+      "The angled drainboard directs water straight into the sink, preventing pooling and keeping countertops dry. The board and rack are precisely aligned for smooth water flow and easy cleaning."
+    ]
+  },
+  {
     "id": "b00deqdeza",
     "title": "Ovente 1.7l Electric Tea Kettle",
     "category": "kitchen",
