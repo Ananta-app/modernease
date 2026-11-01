@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b07hjqcsxh",
+    "title": "Ovente Electric Double Burner",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$24.99",
+    "rating": 4.4,
+    "reviews": 4278,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b07hjqcsxh_1.jpg",
+    "images": [
+      "assets/images/b07hjqcsxh_1.jpg",
+      "assets/images/b07hjqcsxh_2.jpg",
+      "assets/images/b07hjqcsxh_3.jpg",
+      "assets/images/b07hjqcsxh_4.jpg",
+      "assets/images/b07hjqcsxh_5.jpg",
+      "assets/images/b07hjqcsxh_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B07HJQCSXH?tag=modernease-20",
+    "description": "Designed for modern homes. STRESS-FREE COOKING – Equipped with a 6-inch and 5.75-inch hot plate and a durable stainless steel heating tube. This burner heats up quickly and cooks food evenly. You can use it for frying, keeping food warm, boiling hot water or soup. Perfect for elevating your daily routine.",
+    "bullets": [
+      "STRESS-FREE COOKING – Equipped with a 6-inch and 5.75-inch hot plate and a durable stainless steel heating tube. This burner heats up quickly and cooks food evenly. You can use it for frying, keeping food warm, boiling hot water or soup.",
+      "EFFICIENT POWER – Powered with 1700 watts that provides fast, consistent and even heating. Its metal housing is resistant to high temperatures and won’t easily warp or bend even after years of use.",
+      "MAINTAINS DESIRED TEMPERATURE – Simply turn the adjustable control knob to the appropriate temperature setting for your food. The indicator light will illuminate red to indicate the cooktop is warming or heating and will go off once the highest temperature has been reached.",
+      "COMPACT AND LIGHTWEIGHT – Add extra space to your kitchen counter for holiday or parties. Perfect for wherever an extra cooking is needed, at home, apartment, school, office and RVs. You can even bring it along on vacation and camping trips."
+    ]
+  },
+  {
     "id": "b00kl8sm92",
     "title": "West Bend Stir Crazy Popcorn Popper",
     "category": "kitchen",
