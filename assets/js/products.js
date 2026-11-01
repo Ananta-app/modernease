@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0frhcmbg3",
+    "title": "Oster Nonstick Belgian Waffle Maker",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$34.99",
+    "rating": 4.5,
+    "reviews": 48208,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0frhcmbg3_1.jpg",
+    "images": [
+      "assets/images/b0frhcmbg3_1.jpg",
+      "assets/images/b0frhcmbg3_2.jpg",
+      "assets/images/b0frhcmbg3_3.jpg",
+      "assets/images/b0frhcmbg3_4.jpg",
+      "assets/images/b0frhcmbg3_5.jpg",
+      "assets/images/b0frhcmbg3_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0FRHCMBG3?tag=modernease-20",
+    "description": "Designed for modern homes. Sleek Stainless Steel Design: Elevates the look of your kitchen. Perfect for elevating your daily routine.",
+    "bullets": [
+      "Sleek Stainless Steel Design: Elevates the look of your kitchen.",
+      "Durable Nonstick Ceramic Finish: Easy-to-clean surface is PFAS, lead, and cadmium-free.",
+      "Perfect Waffles Every Time: Ready light indicates when waffles are done.",
+      "Cool-Touch Handles: Fold for easy storage."
+    ]
+  },
+  {
     "id": "b07yp9dccm",
     "title": "Kitchenaid Kq908 Glass Surface 11 Pound Capacity",
     "category": "kitchen",
