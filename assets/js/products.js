@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b00kl8sm92",
+    "title": "West Bend Stir Crazy Popcorn Popper",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$39.29",
+    "rating": 4.3,
+    "reviews": 23219,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b00kl8sm92_1.jpg",
+    "images": [
+      "assets/images/b00kl8sm92_1.jpg",
+      "assets/images/b00kl8sm92_2.jpg",
+      "assets/images/b00kl8sm92_3.jpg",
+      "assets/images/b00kl8sm92_4.jpg",
+      "assets/images/b00kl8sm92_5.jpg",
+      "assets/images/b00kl8sm92_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B00KL8SM92?tag=modernease-20",
+    "description": "Designed for modern homes. Pop up to 6 quarts of hot, fluffy popcorn in minutes—perfect for movie nights, parties, or everyday snacking. Perfect for elevating your daily routine.",
+    "bullets": [
+      "Pop up to 6 quarts of hot, fluffy popcorn in minutes—perfect for movie nights, parties, or everyday snacking.",
+      "Features a clear, vented lid with a built-in butter melting well, allowing you to butter your popcorn as it pops. The lid doubles as a 6-quart serving bowl, making snacking simple and mess-free.",
+      "Equipped with a motorized stirring rod and an automatic reversal function, this popcorn popper delivers more pops per batch while preventing kernels from getting stuck or burning.",
+      "The nonstick popping plate wipes clean easily, and the dishwasher-safe lid makes cleaning a breeze. The compact nesting design with a built-in cord wrap ensures it fits perfectly in most kitchen spaces."
+    ]
+  },
+  {
     "id": "b09gfvl7qx",
     "title": "Cosori Food Dehydrator",
     "category": "organizers",
