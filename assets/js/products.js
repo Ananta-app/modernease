@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b0b785v2nf",
+    "title": "Electric Fondue Pot Set – Chocolate Fondue",
+    "category": "kitchen",
+    "categoryLabel": "Aesthetic Kitchen",
+    "price": "$26.99",
+    "rating": 4.5,
+    "reviews": 3092,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b0b785v2nf_1.jpg",
+    "images": [
+      "assets/images/b0b785v2nf_1.jpg",
+      "assets/images/b0b785v2nf_2.jpg",
+      "assets/images/b0b785v2nf_3.jpg",
+      "assets/images/b0b785v2nf_4.jpg",
+      "assets/images/b0b785v2nf_5.jpg",
+      "assets/images/b0b785v2nf_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B0B785V2NF?tag=modernease-20",
+    "description": "Designed for modern homes. This fondue pot electric set comes with a melting base, removable 10oz melting bowl, 3 section detachable tray for easy serving & cleaning, and 4 skewers Perfect for elevating your daily routine.",
+    "bullets": [
+      "This fondue pot electric set comes with a melting base, removable 10oz melting bowl, 3 section detachable tray for easy serving & cleaning, and 4 skewers",
+      "Use this tabletop-safe chocolate melting pot to evenly heat up to 140F for melting. Once melted, turn it to warm and serve it up with your favorite dippings such as fruits, pretzels, marshmallows, candies, and more. To use for cheese melt cheese in advance and add to keep warm",
+      "Invite your friends and family over and impress them! This is a great addition to game night, movie night, date night or just as a party on its own. Makes for great memories",
+      "When you need that fun gift think of this KUSINI Fondue Pot Set. This is a great hostess gift, housewarming gift, foodie gift, wedding registry item or as a valentine's day gift for your loved one. And don't forget about yourself; self-care is important"
+    ]
+  },
+  {
     "id": "b000ax13us",
     "title": "Goodcook Safe-Cut Can Opener With Easy Turn",
     "category": "kitchen",
