@@ -4,6 +4,34 @@
 
 const PRODUCTS = [
   {
+    "id": "b09gfvl7qx",
+    "title": "Cosori Food Dehydrator",
+    "category": "organizers",
+    "categoryLabel": "Smart Organizers",
+    "price": "$49.99",
+    "rating": 4.6,
+    "reviews": 9553,
+    "badge": "Amazon Viral Find",
+    "isViral": true,
+    "image": "assets/images/b09gfvl7qx_1.jpg",
+    "images": [
+      "assets/images/b09gfvl7qx_1.jpg",
+      "assets/images/b09gfvl7qx_2.jpg",
+      "assets/images/b09gfvl7qx_3.jpg",
+      "assets/images/b09gfvl7qx_4.jpg",
+      "assets/images/b09gfvl7qx_5.jpg",
+      "assets/images/b09gfvl7qx_6.jpg"
+    ],
+    "affiliateUrl": "https://www.amazon.com/dp/B09GFVL7QX?tag=modernease-20",
+    "description": "Designed for modern homes. 𝗠𝗔𝗫 𝗧𝗘𝗠𝗣𝗘𝗥𝗔𝗧𝗨𝗥𝗘 𝟭𝟲𝟱 °𝗙: Compared to 158 °F, the Cosori Compact Food Dehydrator Machine ensures safer beef jerky with higher temperatures. Adjustable between 95-165 °F in 1 °F increments and can run for up to 48 hours in 30-minute increments Perfect for elevating your daily routine.",
+    "bullets": [
+      "𝗠𝗔𝗫 𝗧𝗘𝗠𝗣𝗘𝗥𝗔𝗧𝗨𝗥𝗘 𝟭𝟲𝟱 °𝗙: Compared to 158 °F, the Cosori Compact Food Dehydrator Machine ensures safer beef jerky with higher temperatures. Adjustable between 95-165 °F in 1 °F increments and can run for up to 48 hours in 30-minute increments",
+      "𝗘𝗫𝗣𝗔𝗡𝗗𝗔𝗕𝗟𝗘 𝗧𝗢 𝟳 𝗧𝗥𝗔𝗬𝗦: The Fruit and Herb Dehydrator comes with 5 large BPA-Free trays (Outer Diameter 12.2\", Inner Diameter 11.6\"). You can add 2 more trays by searching for 'CFD-TR051-WUS'. For additional sheets, search for 'Cosori N051 Accessories'",
+      "𝗦𝗢𝗟𝗜𝗗 𝗠𝗔𝗧𝗘𝗥𝗜𝗔𝗟: Our Meat Dehydrator is built with solid material, ensuring durability compared to fragile clear shells. You can find more details in our video",
+      "𝗔𝗗𝗝𝗨𝗦𝗧𝗔𝗕𝗟𝗘 𝗛𝗘𝗜𝗚𝗛𝗧: This Electric Food Dehydrator allows you to customize tray heights, making it perfect for thick-cut ingredients or easier storage"
+    ]
+  },
+  {
     "id": "b0b785v2nf",
     "title": "Electric Fondue Pot Set – Chocolate Fondue",
     "category": "kitchen",
