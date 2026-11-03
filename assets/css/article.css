@@ -289,6 +289,21 @@ body.article-page {
   gap: 8px;
 }
 
+
+.meta-tier {
+  font-weight: 700;
+  color: #D35400;
+  background: rgba(211, 84, 0, 0.08);
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+}
+.meta-prime {
+  color: #007185;
+  font-weight: 700;
+  font-size: 12px;
+}
+
 .meta-rating {
   color: #D97706;
   font-weight: 700;
