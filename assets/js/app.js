@@ -38,6 +38,23 @@ document.addEventListener("DOMContentLoaded", () => {
   setupEventListeners();
 });
 
+// Room / Space Filter Shortcut
+function filterByRoom(category) {
+  currentCategory = category;
+  categoryTabs.forEach((t) => {
+    if (t.dataset.category === category) {
+      t.classList.add("active");
+    } else {
+      t.classList.remove("active");
+    }
+  });
+  renderProducts();
+  const targetSection = document.getElementById("curators-picks");
+  if (targetSection) {
+    targetSection.scrollIntoView({ behavior: "smooth" });
+  }
+}
+
 // Event Listeners
 function setupEventListeners() {
   // Search
@@ -112,14 +129,14 @@ function renderProducts() {
 
         <div class="product-footer">
           <a href="${p.affiliateUrl}" target="_blank" rel="noopener sponsored" class="btn-affiliate-shop" onclick="event.stopPropagation()">
-            <span>Check Price</span>
+            <span>View on Amazon</span>
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
               <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
               <polyline points="15 3 21 3 21 9"></polyline>
               <line x1="10" y1="14" x2="21" y2="3"></line>
             </svg>
           </a>
-          <button class="btn-quick-view" title="Quick View" onclick="openQuickView('${p.id}')">
+          <button class="btn-quick-view" title="Quick View & Gallery" onclick="openQuickView('${p.id}')">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
               <circle cx="12" cy="12" r="3"></circle>

@@ -959,3 +959,465 @@ button {
     grid-template-columns: 1fr;
   }
 }
+
+/* ==========================================================================
+   Editorial Magazine & Curated Lifestyle Hub Styles
+   ========================================================================== */
+
+/* Navigation Links */
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+
+.nav-link {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  transition: var(--transition-smooth);
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: var(--accent-terra);
+}
+
+.btn-guides-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: rgba(211, 84, 0, 0.08);
+  border: 1px solid rgba(211, 84, 0, 0.22);
+  border-radius: var(--radius-full);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent-terra);
+  transition: var(--transition-smooth);
+}
+
+.btn-guides-pill:hover {
+  background: var(--accent-terra);
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+.btn-guides-pill .pill-badge {
+  font-size: 0.68rem;
+  background: var(--accent-terra);
+  color: #fff;
+  padding: 2px 6px;
+  border-radius: var(--radius-full);
+  letter-spacing: 0.5px;
+}
+
+.btn-guides-pill:hover .pill-badge {
+  background: #fff;
+  color: var(--accent-terra);
+}
+
+/* Hero Section: Editorial Headline */
+.hero-editorial {
+  max-width: 1280px;
+  margin: 20px auto 44px;
+  padding: 0 24px;
+}
+
+.hero-editorial-card {
+  position: relative;
+  background: linear-gradient(135deg, #2A2420 0%, #1A1816 100%);
+  border-radius: var(--radius-lg);
+  padding: 64px 48px;
+  color: #FFFFFF;
+  overflow: hidden;
+  box-shadow: 0 20px 48px rgba(24, 24, 27, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.hero-editorial-card::before {
+  content: '';
+  position: absolute;
+  top: -100px;
+  right: -60px;
+  width: 440px;
+  height: 440px;
+  background: radial-gradient(circle, rgba(211, 84, 0, 0.25) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.hero-editorial-inner {
+  position: relative;
+  z-index: 2;
+  max-width: 760px;
+}
+
+.hero-editorial-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: var(--radius-full);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: #F8D5B8;
+  margin-bottom: 22px;
+}
+
+.hero-editorial-badge .badge-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent-terra);
+  box-shadow: 0 0 8px rgba(211, 84, 0, 0.8);
+}
+
+.hero-editorial-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.1rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.5px;
+  margin-bottom: 18px;
+  color: #FFFFFF;
+}
+
+.hero-editorial-title em {
+  font-style: italic;
+  color: #F8D5B8;
+  font-weight: 400;
+}
+
+.hero-editorial-desc {
+  font-size: 1.12rem;
+  line-height: 1.65;
+  color: #D4CECE;
+  margin-bottom: 30px;
+  max-width: 680px;
+}
+
+.hero-editorial-features {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.hero-feature-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: var(--radius-full);
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: #FAF8F5;
+}
+
+/* Featured Guides Section (Fokus Utama #1) */
+.featured-guides-section {
+  max-width: 1280px;
+  margin: 0 auto 60px;
+  padding: 0 24px;
+}
+
+.section-header-editorial {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 28px;
+  gap: 20px;
+}
+
+.section-header-editorial .header-left {
+  max-width: 640px;
+}
+
+.section-kicker {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--accent-terra);
+  margin-bottom: 8px;
+}
+
+.section-main-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.1rem;
+  font-weight: 700;
+  color: var(--text-main);
+  line-height: 1.25;
+  margin-bottom: 8px;
+}
+
+.section-main-desc {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.55;
+}
+
+.btn-view-all-guides {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--accent-terra);
+  padding: 10px 18px;
+  border-radius: var(--radius-full);
+  background: rgba(211, 84, 0, 0.08);
+  border: 1px solid rgba(211, 84, 0, 0.2);
+  transition: var(--transition-smooth);
+  white-space: nowrap;
+}
+
+.btn-view-all-guides:hover {
+  background: var(--accent-terra);
+  color: #fff;
+  transform: translateX(3px);
+}
+
+.featured-guides-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+.guide-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-sm);
+  transition: var(--transition-smooth);
+  position: relative;
+}
+
+.guide-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
+  border-color: rgba(211, 84, 0, 0.35);
+}
+
+.guide-card-img-wrap {
+  position: relative;
+  height: 220px;
+  background: #F4F0E8;
+  overflow: hidden;
+}
+
+.guide-card-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.guide-card:hover .guide-card-img-wrap img {
+  transform: scale(1.05);
+}
+
+.guide-card-badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  background: #18181B;
+  color: #FFF;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.18);
+  z-index: 2;
+}
+
+.guide-card-badge.highlight {
+  background: var(--accent-terra);
+}
+
+.guide-card-body {
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.guide-card-meta {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: var(--accent-terra);
+  margin-bottom: 8px;
+}
+
+.guide-card-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--text-main);
+  margin-bottom: 10px;
+}
+
+.guide-card-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.guide-card-title a:hover {
+  color: var(--accent-terra);
+}
+
+.guide-card-excerpt {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-bottom: 20px;
+  flex-grow: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.guide-card-action {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 14px;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.guide-card-read {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--accent-terra);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.guide-card-read:hover {
+  text-decoration: underline;
+}
+
+.guide-card-count {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-light);
+}
+
+/* Browse by Category / Room Section */
+.room-categories-section {
+  max-width: 1280px;
+  margin: 0 auto 64px;
+  padding: 0 24px;
+}
+
+.room-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.room-card {
+  position: relative;
+  height: 230px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: var(--transition-smooth);
+}
+
+.room-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.room-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s ease;
+}
+
+.room-card:hover img {
+  transform: scale(1.08);
+}
+
+.room-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.1) 0%, rgba(20,18,16,0.85) 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 22px;
+  color: #fff;
+}
+
+.room-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.room-desc {
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.85);
+  margin-bottom: 10px;
+}
+
+.room-pill-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #F8D5B8;
+}
+
+/* Responsive adjustments for new sections */
+@media (max-width: 860px) {
+  .hero-editorial-title {
+    font-size: 2.3rem;
+  }
+  .hero-editorial-card {
+    padding: 40px 28px;
+  }
+  .section-header-editorial {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .nav-links {
+    display: none; /* Collapses to cleaner header on tablet/mobile */
+  }
+}
+
+@media (max-width: 600px) {
+  .hero-editorial-title {
+    font-size: 1.85rem;
+  }
+  .hero-editorial-desc {
+    font-size: 0.98rem;
+  }
+  .hero-editorial-card {
+    padding: 32px 20px;
+  }
+}
