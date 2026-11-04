@@ -545,3 +545,20 @@ body.article-page {
   font-size: 13px;
   text-decoration: none;
 }
+
+/* The Final Verdict */
+.final-verdict-section {
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 16px;
+  padding: 36px 32px;
+  margin: 48px 0 32px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+}
+
+.final-verdict-text {
+  font-size: 15.5px;
+  line-height: 1.75;
+  color: #3F3935;
+  margin-top: 14px;
+}
