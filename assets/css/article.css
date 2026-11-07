@@ -668,3 +668,74 @@ body.article-page {
     font-size: 13.5px;
   }
 }
+
+
+/* ==========================================================================
+   CRO 3-Point Click & Product Pairing Styles
+   ========================================================================== */
+
+/* Clickable Product Titles */
+a.product-title-link, a.qp-title-link {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a.product-title-link:hover, a.qp-title-link:hover {
+  color: #D35400;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Clickable Product Visuals */
+a.product-img-link, .qp-img-wrap a {
+  display: block;
+  overflow: hidden;
+  border-radius: 8px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a.product-img-link img, .qp-img-wrap a img {
+  transition: transform 0.3s ease, opacity 0.25s ease;
+}
+
+a.product-img-link:hover img, .qp-img-wrap a:hover img {
+  transform: scale(1.03);
+  opacity: 0.95;
+}
+
+/* Curator's Accessory Pairing Tip */
+.product-pairing-tip {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  background: rgba(211, 84, 0, 0.08);
+  border-left: 3px solid #D35400;
+  border-radius: 0 6px 6px 0;
+  padding: 10px 14px;
+  margin: 16px 0 18px;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.product-pairing-tip .pairing-badge {
+  font-size: 10.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #D35400;
+  flex-shrink: 0;
+}
+
+.product-pairing-tip .pairing-text {
+  color: #4A4540;
+}
+
+@media (max-width: 640px) {
+  .product-pairing-tip {
+    flex-direction: column;
+    gap: 4px;
+    padding: 8px 12px;
+  }
+}
