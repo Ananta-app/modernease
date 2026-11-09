@@ -24,7 +24,7 @@ const PRODUCTS = [
       "assets/images/b07s2628r9_5.jpg",
       "assets/images/b07s2628r9_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B07S2628R9?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B07S2628R9?tag=moderneaseliv-20",
     "description": "Designed for modern homes. FLEXIBLE & SPACE-SAVING: This versatile portable induction stovetop allows you to cook meals without a full range, making it the perfect solution for RVs, cabins, studio apartments, and other small spaces where a full kitchen isn't available. Perfect for elevating your daily routine.",
     "bullets": [
       "FLEXIBLE & SPACE-SAVING: This versatile portable induction stovetop allows you to cook meals without a full range, making it the perfect solution for RVs, cabins, studio apartments, and other small spaces where a full kitchen isn't available.",
@@ -52,7 +52,7 @@ const PRODUCTS = [
       "assets/images/b0frhcmbg3_5.jpg",
       "assets/images/b0frhcmbg3_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0FRHCMBG3?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0FRHCMBG3?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Sleek Stainless Steel Design: Elevates the look of your kitchen. Perfect for elevating your daily routine.",
     "bullets": [
       "Sleek Stainless Steel Design: Elevates the look of your kitchen.",
@@ -79,7 +79,7 @@ const PRODUCTS = [
       "assets/images/b07yp9dccm_4.jpg",
       "assets/images/b07yp9dccm_5.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B07YP9DCCM?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B07YP9DCCM?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Dry ingredients: 11 LB X 0.1 Oz and 5000 grams x 1 gram Liquid ingredients: 5000 millilitre x 1 millilitre and 176 FL Oz x 0.1 FL Oz Perfect for elevating your daily routine.",
     "bullets": [
       "Dry ingredients: 11 LB X 0.1 Oz and 5000 grams x 1 gram Liquid ingredients: 5000 millilitre x 1 millilitre and 176 FL Oz x 0.1 FL Oz",
@@ -107,7 +107,7 @@ const PRODUCTS = [
       "assets/images/b07hjqcsxh_5.jpg",
       "assets/images/b07hjqcsxh_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B07HJQCSXH?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B07HJQCSXH?tag=moderneaseliv-20",
     "description": "Designed for modern homes. STRESS-FREE COOKING – Equipped with a 6-inch and 5.75-inch hot plate and a durable stainless steel heating tube. This burner heats up quickly and cooks food evenly. You can use it for frying, keeping food warm, boiling hot water or soup. Perfect for elevating your daily routine.",
     "bullets": [
       "STRESS-FREE COOKING – Equipped with a 6-inch and 5.75-inch hot plate and a durable stainless steel heating tube. This burner heats up quickly and cooks food evenly. You can use it for frying, keeping food warm, boiling hot water or soup.",
@@ -135,7 +135,7 @@ const PRODUCTS = [
       "assets/images/b00kl8sm92_5.jpg",
       "assets/images/b00kl8sm92_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B00KL8SM92?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B00KL8SM92?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Pop up to 6 quarts of hot, fluffy popcorn in minutes—perfect for movie nights, parties, or everyday snacking. Perfect for elevating your daily routine.",
     "bullets": [
       "Pop up to 6 quarts of hot, fluffy popcorn in minutes—perfect for movie nights, parties, or everyday snacking.",
@@ -163,7 +163,7 @@ const PRODUCTS = [
       "assets/images/b09gfvl7qx_5.jpg",
       "assets/images/b09gfvl7qx_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B09GFVL7QX?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B09GFVL7QX?tag=moderneaseliv-20",
     "description": "Designed for modern homes. 𝗠𝗔𝗫 𝗧𝗘𝗠𝗣𝗘𝗥𝗔𝗧𝗨𝗥𝗘 𝟭𝟲𝟱 °𝗙: Compared to 158 °F, the Cosori Compact Food Dehydrator Machine ensures safer beef jerky with higher temperatures. Adjustable between 95-165 °F in 1 °F increments and can run for up to 48 hours in 30-minute increments Perfect for elevating your daily routine.",
     "bullets": [
       "𝗠𝗔𝗫 𝗧𝗘𝗠𝗣𝗘𝗥𝗔𝗧𝗨𝗥𝗘 𝟭𝟲𝟱 °𝗙: Compared to 158 °F, the Cosori Compact Food Dehydrator Machine ensures safer beef jerky with higher temperatures. Adjustable between 95-165 °F in 1 °F increments and can run for up to 48 hours in 30-minute increments",
@@ -191,7 +191,7 @@ const PRODUCTS = [
       "assets/images/b0b785v2nf_5.jpg",
       "assets/images/b0b785v2nf_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0B785V2NF?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B785V2NF?tag=moderneaseliv-20",
     "description": "Designed for modern homes. This fondue pot electric set comes with a melting base, removable 10oz melting bowl, 3 section detachable tray for easy serving & cleaning, and 4 skewers Perfect for elevating your daily routine.",
     "bullets": [
       "This fondue pot electric set comes with a melting base, removable 10oz melting bowl, 3 section detachable tray for easy serving & cleaning, and 4 skewers",
@@ -219,7 +219,7 @@ const PRODUCTS = [
       "assets/images/b000ax13us_5.jpg",
       "assets/images/b000ax13us_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B000AX13US?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B000AX13US?tag=moderneaseliv-20",
     "description": "Designed for modern homes. HANDS-FREE LID DISPOSAL: This can top remover lifts the lid off and holds it until you’re ready to dispose of it. Just pivot the handle to release the lid into the trash. There is no need to ever touch the lid to dispose. Perfect for elevating your daily routine.",
     "bullets": [
       "HANDS-FREE LID DISPOSAL: This can top remover lifts the lid off and holds it until you’re ready to dispose of it. Just pivot the handle to release the lid into the trash. There is no need to ever touch the lid to dispose.",
@@ -247,7 +247,7 @@ const PRODUCTS = [
       "assets/images/b078jxfbdp_5.jpg",
       "assets/images/b078jxfbdp_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B078JXFBDP?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B078JXFBDP?tag=moderneaseliv-20",
     "description": "Designed for modern homes. This full size dish rack offers ample space for plates, mugs, glasses, bowls, utensils, and even larger items like pots and pans. Please refer to product dimensions to ensure an ideal fit for your countertop. Perfect for elevating your daily routine.",
     "bullets": [
       "This full size dish rack offers ample space for plates, mugs, glasses, bowls, utensils, and even larger items like pots and pans. Please refer to product dimensions to ensure an ideal fit for your countertop.",
@@ -275,7 +275,7 @@ const PRODUCTS = [
       "assets/images/b00deqdeza_5.jpg",
       "assets/images/b00deqdeza_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B00DEQDEZA?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B00DEQDEZA?tag=moderneaseliv-20",
     "description": "Designed for modern homes. BOILS WATER IN A FLASH – Powered by 1100W, this 1.7L electric kettle quickly boils enough water for multiple cups at once. It’s also 50% more efficient than traditional stovetop kettles, helping reduce daily electricity use. Perfect for elevating your daily routine.",
     "bullets": [
       "BOILS WATER IN A FLASH – Powered by 1100W, this 1.7L electric kettle quickly boils enough water for multiple cups at once. It’s also 50% more efficient than traditional stovetop kettles, helping reduce daily electricity use.",
@@ -303,7 +303,7 @@ const PRODUCTS = [
       "assets/images/b0ck9hj7s2_5.jpg",
       "assets/images/b0ck9hj7s2_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0CK9HJ7S2?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CK9HJ7S2?tag=moderneaseliv-20",
     "description": "Effortless fresh citrus juicing with auto-reversing cones and 24 oz capacity. Perfect for modern kitchens.",
     "bullets": [
       "40W Motor: Extracts more juice faster than standard 25W models",
@@ -330,7 +330,7 @@ const PRODUCTS = [
       "assets/images/b0f8trcrbr_5.jpg",
       "assets/images/b0f8trcrbr_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0F8TRCRBR?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0F8TRCRBR?tag=moderneaseliv-20",
     "description": "Designed for modern homes. What material is Doosu food tong made of? Crafted from premium 18/8 stainless steel and silicone, Doosu kitchen tong is built to last, rust-proof and corrosion-resistant. The sturdy metal body resists bending, warping, and breaking, even under heavy use or when lifting large portions of food. Unlike other tongs with sharp or poorly finished edges that cause discomfort or even cuts, our stainless steel tong features smooth, rounded handle cushioned with silicon for a comfortable hold. Perfect for elevating your daily routine.",
     "bullets": [
       "What material is Doosu food tong made of? Crafted from premium 18/8 stainless steel and silicone, Doosu kitchen tong is built to last, rust-proof and corrosion-resistant. The sturdy metal body resists bending, warping, and breaking, even under heavy use or when lifting large portions of food. Unlike other tongs with sharp or poorly finished edges that cause discomfort or even cuts, our stainless steel tong features smooth, rounded handle cushioned with silicon for a comfortable hold.",
@@ -358,7 +358,7 @@ const PRODUCTS = [
       "assets/images/b0c4z39tk9_5.jpg",
       "assets/images/b0c4z39tk9_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0C4Z39TK9?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0C4Z39TK9?tag=moderneaseliv-20",
     "description": "Designed for modern homes. EXTRA-LARGE COOKING SURFACE: The 10 x 20 inch indoor grill provides plenty of space to cook up big batches for a crowd or a complete meal. Perfect for elevating your daily routine.",
     "bullets": [
       "EXTRA-LARGE COOKING SURFACE: The 10 x 20 inch indoor grill provides plenty of space to cook up big batches for a crowd or a complete meal.",
@@ -386,7 +386,7 @@ const PRODUCTS = [
       "assets/images/b005kdeiz0_5.jpg",
       "assets/images/b005kdeiz0_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B005KDEIZ0?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B005KDEIZ0?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Thermometer displays true oven temperature instantly to ensure safe food preparation Perfect for elevating your daily routine.",
     "bullets": [
       "Thermometer displays true oven temperature instantly to ensure safe food preparation",
@@ -414,7 +414,7 @@ const PRODUCTS = [
       "assets/images/b0d3wjpxwl_5.jpg",
       "assets/images/b0d3wjpxwl_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0D3WJPXWL?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D3WJPXWL?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Dash Rapid Egg Cooker: The original and most trusted egg cooker on the market, cooks eggs to desired doneness Perfect for elevating your daily routine.",
     "bullets": [
       "Dash Rapid Egg Cooker: The original and most trusted egg cooker on the market, cooks eggs to desired doneness",
@@ -442,7 +442,7 @@ const PRODUCTS = [
       "assets/images/b07sgp2jsl_5.jpg",
       "assets/images/b07sgp2jsl_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B07SGP2JSL?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B07SGP2JSL?tag=moderneaseliv-20",
     "description": "Designed for modern homes. AUTOMATIC & HYGIENIC – The touchless sensor lid opens and closes automatically, keeping your hands clean and ensuring a noiseless, sanitary trash experience. Perfect for elevating your daily routine.",
     "bullets": [
       "AUTOMATIC & HYGIENIC – The touchless sensor lid opens and closes automatically, keeping your hands clean and ensuring a noiseless, sanitary trash experience.",
@@ -470,7 +470,7 @@ const PRODUCTS = [
       "assets/images/b08n9q24m9_5.jpg",
       "assets/images/b08n9q24m9_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B08N9Q24M9?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B08N9Q24M9?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Premium grade 420 stainless steel blades and BPA-free materials for safe, long-lasting performance. Perfect for elevating your daily routine.",
     "bullets": [
       "Premium grade 420 stainless steel blades and BPA-free materials for safe, long-lasting performance.",
@@ -498,7 +498,7 @@ const PRODUCTS = [
       "assets/images/b0gqm5vh3d_5.jpg",
       "assets/images/b0gqm5vh3d_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0GQM5VH3D?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0GQM5VH3D?tag=moderneaseliv-20",
     "description": "Designed for modern homes. ⚡ 【𝗘𝗰𝗼-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗙𝗮𝘀𝘁 𝗖𝗵𝗮𝗿𝗴𝗲,𝗖𝗼𝗼𝗸 𝗙𝗿𝗲𝘀𝗵 𝗪𝗮𝗶𝘁 𝗟𝗲𝘀𝘀】This rechargeable salt and pepper grinder set powers up in just 5 minutes for an entire meal, while a full charge lasts up to 2 months. Ditch disposable batteries for hassle-free, eco-conscious cooking. A practical kitchen essential for everyday cooking, meal prep, family dinners, and home cooks. Perfect for elevating your daily routine.",
     "bullets": [
       "⚡ 【𝗘𝗰𝗼-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗙𝗮𝘀𝘁 𝗖𝗵𝗮𝗿𝗴𝗲,𝗖𝗼𝗼𝗸 𝗙𝗿𝗲𝘀𝗵 𝗪𝗮𝗶𝘁 𝗟𝗲𝘀𝘀】This rechargeable salt and pepper grinder set powers up in just 5 minutes for an entire meal, while a full charge lasts up to 2 months. Ditch disposable batteries for hassle-free, eco-conscious cooking. A practical kitchen essential for everyday cooking, meal prep, family dinners, and home cooks.",
@@ -526,7 +526,7 @@ const PRODUCTS = [
       "assets/images/b07gtc4ncv_5.jpg",
       "assets/images/b07gtc4ncv_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B07GTC4NCV?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B07GTC4NCV?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Microwave Cover: This microwave splatter cover keeps your microwave spotless while heating food evenly, with a clever vented design that releases steam perfectly every time you reheat leftovers or warm up meals Perfect for elevating your daily routine.",
     "bullets": [
       "Microwave Cover: This microwave splatter cover keeps your microwave spotless while heating food evenly, with a clever vented design that releases steam perfectly every time you reheat leftovers or warm up meals",
@@ -554,7 +554,7 @@ const PRODUCTS = [
       "assets/images/b091jxdldx_5.jpg",
       "assets/images/b091jxdldx_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B091JXDLDX?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B091JXDLDX?tag=moderneaseliv-20",
     "description": "Designed for modern homes. [Multiple Sizes]: Including 4 Measuring cups ( 1/4, 1/3, 1/2, 1 cup), 6 Measuring spoons (1/8, 1/4, 1/2 , 1 tsp, 1/2, 1 tbsp). Meet All Your Needs On Cooking And Baking Perfect for elevating your daily routine.",
     "bullets": [
       "[Multiple Sizes]: Including 4 Measuring cups ( 1/4, 1/3, 1/2, 1 cup), 6 Measuring spoons (1/8, 1/4, 1/2 , 1 tsp, 1/2, 1 tbsp). Meet All Your Needs On Cooking And Baking",
@@ -582,7 +582,7 @@ const PRODUCTS = [
       "assets/images/b0cyzq374r_5.jpg",
       "assets/images/b0cyzq374r_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0CYZQ374R?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CYZQ374R?tag=moderneaseliv-20",
     "description": "Designed for modern homes. 2024 DOPAMINE COLOR IN OUR CHICKEN SHREDDER: Spring and Summer are coming soon, we choose some bright and vibrant colors to arouse people's inner joy and positive emotions. In daily life, a colorful meat shredder can convey happiness and a positive attitude toward life. Our chicken shredder is a new kitchen essential, which helps people take literally a couple of minutes to shred their food and no burnt fingers tips, it is an amazing tool Perfect for elevating your daily routine.",
     "bullets": [
       "2024 DOPAMINE COLOR IN OUR CHICKEN SHREDDER: Spring and Summer are coming soon, we choose some bright and vibrant colors to arouse people's inner joy and positive emotions. In daily life, a colorful meat shredder can convey happiness and a positive attitude toward life. Our chicken shredder is a new kitchen essential, which helps people take literally a couple of minutes to shred their food and no burnt fingers tips, it is an amazing tool",
@@ -610,7 +610,7 @@ const PRODUCTS = [
       "assets/images/b0cjf7kshk_5.jpg",
       "assets/images/b0cjf7kshk_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0CJF7KSHK?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CJF7KSHK?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Lifetime Warranty: We stand behind this kitchen and dining essential with responsive lifetime support. If performance falls short, contact us for a practical solution. Built for daily use, it works naturally with kitchen gadgets and kitchen tools. Perfect for elevating your daily routine.",
     "bullets": [
       "Lifetime Warranty: We stand behind this kitchen and dining essential with responsive lifetime support. If performance falls short, contact us for a practical solution. Built for daily use, it works naturally with kitchen gadgets and kitchen tools.",
@@ -638,7 +638,7 @@ const PRODUCTS = [
       "assets/images/b0dq6pp1zv_5.jpg",
       "assets/images/b0dq6pp1zv_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0DQ6PP1ZV?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DQ6PP1ZV?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Slim Design, Big Impact: With a sleek 3.58\" profile, the bella 2-Slice Slim Toaster fits comfortably on any countertop without taking up much space. Part of our Fits-anywhere kitchenware collection, it’s the perfect blend of style and practicality Perfect for elevating your daily routine.",
     "bullets": [
       "Slim Design, Big Impact: With a sleek 3.58\" profile, the bella 2-Slice Slim Toaster fits comfortably on any countertop without taking up much space. Part of our Fits-anywhere kitchenware collection, it’s the perfect blend of style and practicality",
@@ -666,7 +666,7 @@ const PRODUCTS = [
       "assets/images/b0cyjbb2jq_5.jpg",
       "assets/images/b0cyjbb2jq_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0CYJBB2JQ?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CYJBB2JQ?tag=moderneaseliv-20",
     "description": "Designed for modern homes. With a sleek 3.58\" profile, the bella 2-Slice Slim Toaster fits comfortably on any countertop without taking up much space. Part of our Fits-anywhere kitchenware collection, it’s the perfect blend of style and practicality Perfect for elevating your daily routine.",
     "bullets": [
       "With a sleek 3.58\" profile, the bella 2-Slice Slim Toaster fits comfortably on any countertop without taking up much space. Part of our Fits-anywhere kitchenware collection, it’s the perfect blend of style and practicality",
@@ -694,7 +694,7 @@ const PRODUCTS = [
       "assets/images/b07z8g97py_5.jpg",
       "assets/images/b07z8g97py_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B07Z8G97PY?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B07Z8G97PY?tag=moderneaseliv-20",
     "description": "Designed for modern homes. STAINLESS STEEL BLADES AND BOWL - The sharp blades and durable grinding bowl are built to last, delivering uniform grinds with every use Perfect for elevating your daily routine.",
     "bullets": [
       "STAINLESS STEEL BLADES AND BOWL - The sharp blades and durable grinding bowl are built to last, delivering uniform grinds with every use",
@@ -722,7 +722,7 @@ const PRODUCTS = [
       "assets/images/b01gjomwyc_5.jpg",
       "assets/images/b01gjomwyc_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B01GJOMWYC?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B01GJOMWYC?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Please refer to user guide or user manual or user guide (provided below in PDF) before first use Perfect for elevating your daily routine.",
     "bullets": [
       "Please refer to user guide or user manual or user guide (provided below in PDF) before first use",
@@ -750,7 +750,7 @@ const PRODUCTS = [
       "assets/images/b0fmphhtm8_5.jpg",
       "assets/images/b0fmphhtm8_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0FMPHHTM8?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0FMPHHTM8?tag=moderneaseliv-20",
     "description": "Designed for modern homes. Elevated Design: Streamlined, modern-vintage aesthetic, and vibrant Purple Potato color Perfect for elevating your daily routine.",
     "bullets": [
       "Elevated Design: Streamlined, modern-vintage aesthetic, and vibrant Purple Potato color",
@@ -778,7 +778,7 @@ const PRODUCTS = [
       "assets/images/b0h9rb9wm2_5.jpg",
       "assets/images/b0h9rb9wm2_6.jpg"
     ],
-    "affiliateUrl": "https://www.amazon.com/dp/B0H9RB9WM2?tag=modernease-20",
+    "affiliateUrl": "https://www.amazon.com/dp/B0H9RB9WM2?tag=moderneaseliv-20",
     "description": "Designed for modern homes. 6 Presets for Easy Brewing: From 165°F to boiling, 6 precise temperature settings powered by Strix technology help you easily brew coffee and herbal, green, white, oolong, and black teas. Perfect for elevating your daily routine.",
     "bullets": [
       "6 Presets for Easy Brewing: From 165°F to boiling, 6 precise temperature settings powered by Strix technology help you easily brew coffee and herbal, green, white, oolong, and black teas.",
