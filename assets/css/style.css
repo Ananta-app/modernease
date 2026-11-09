@@ -1026,13 +1026,13 @@ button {
 
 .hero-editorial-card {
   position: relative;
-  background: linear-gradient(135deg, #2A2420 0%, #1A1816 100%);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero-bg.jpg') center center / cover no-repeat;
   border-radius: var(--radius-lg);
   padding: 64px 48px;
   color: #FFFFFF;
   overflow: hidden;
-  box-shadow: 0 20px 48px rgba(24, 24, 27, 0.12);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 20px 48px rgba(24, 24, 27, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.12);
 }
 
 .hero-editorial-card::before {
