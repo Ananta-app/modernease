@@ -164,12 +164,12 @@ const PRODUCTS = [
       "assets/images/b09gfvl7qx_6.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B09GFVL7QX?tag=moderneaseliv-20",
-    "description": "Designed for modern homes. 𝗠𝗔𝗫 𝗧𝗘𝗠𝗣𝗘𝗥𝗔𝗧𝗨𝗥𝗘 𝟭𝟲𝟱 °𝗙: Compared to 158 °F, the Cosori Compact Food Dehydrator Machine ensures safer beef jerky with higher temperatures. Adjustable between 95-165 °F in 1 °F increments and can run for up to 48 hours in 30-minute increments Perfect for elevating your daily routine.",
+    "description": "Designed for modern homes. MAX TEMPERATURE 165 °F: Compared to 158 °F, the Cosori Compact Food Dehydrator Machine ensures safer beef jerky with higher temperatures. Adjustable between 95-165 °F in 1 °F increments and can run for up to 48 hours in 30-minute increments Perfect for elevating your daily routine.",
     "bullets": [
-      "𝗠𝗔𝗫 𝗧𝗘𝗠𝗣𝗘𝗥𝗔𝗧𝗨𝗥𝗘 𝟭𝟲𝟱 °𝗙: Compared to 158 °F, the Cosori Compact Food Dehydrator Machine ensures safer beef jerky with higher temperatures. Adjustable between 95-165 °F in 1 °F increments and can run for up to 48 hours in 30-minute increments",
-      "𝗘𝗫𝗣𝗔𝗡𝗗𝗔𝗕𝗟𝗘 𝗧𝗢 𝟳 𝗧𝗥𝗔𝗬𝗦: The Fruit and Herb Dehydrator comes with 5 large BPA-Free trays (Outer Diameter 12.2\", Inner Diameter 11.6\"). You can add 2 more trays by searching for 'CFD-TR051-WUS'. For additional sheets, search for 'Cosori N051 Accessories'",
-      "𝗦𝗢𝗟𝗜𝗗 𝗠𝗔𝗧𝗘𝗥𝗜𝗔𝗟: Our Meat Dehydrator is built with solid material, ensuring durability compared to fragile clear shells. You can find more details in our video",
-      "𝗔𝗗𝗝𝗨𝗦𝗧𝗔𝗕𝗟𝗘 𝗛𝗘𝗜𝗚𝗛𝗧: This Electric Food Dehydrator allows you to customize tray heights, making it perfect for thick-cut ingredients or easier storage"
+      "MAX TEMPERATURE 165 °F: Compared to 158 °F, the Cosori Compact Food Dehydrator Machine ensures safer beef jerky with higher temperatures. Adjustable between 95-165 °F in 1 °F increments and can run for up to 48 hours in 30-minute increments",
+      "EXPANDABLE TO 7 TRAYS: The Fruit and Herb Dehydrator comes with 5 large BPA-Free trays (Outer Diameter 12.2\", Inner Diameter 11.6\"). You can add 2 more trays by searching for 'CFD-TR051-WUS'. For additional sheets, search for 'Cosori N051 Accessories'",
+      "SOLID MATERIAL: Our Meat Dehydrator is built with solid material, ensuring durability compared to fragile clear shells. You can find more details in our video",
+      "ADJUSTABLE HEIGHT: This Electric Food Dehydrator allows you to customize tray heights, making it perfect for thick-cut ingredients or easier storage"
     ]
   },
   {
@@ -248,9 +248,9 @@ const PRODUCTS = [
       "assets/images/b078jxfbdp_6.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B078JXFBDP?tag=moderneaseliv-20",
-    "description": "Designed for modern homes. This full size dish rack offers ample space for plates, mugs, glasses, bowls, utensils, and even larger items like pots and pans. Please refer to product dimensions to ensure an ideal fit for your countertop. Perfect for elevating your daily routine.",
+    "description": "Designed for modern homes. This full size dish rack offers ample space for plates, mugs, glasses, bowls, utensils, and even larger items like pots and pans.  Perfect for elevating your daily routine.",
     "bullets": [
-      "This full size dish rack offers ample space for plates, mugs, glasses, bowls, utensils, and even larger items like pots and pans. Please refer to product dimensions to ensure an ideal fit for your countertop.",
+      "This full size dish rack offers ample space for plates, mugs, glasses, bowls, utensils, and even larger items like pots and pans. ",
       "Equipped with soft, anti slip feet, this dish rack stays securely in place, protecting surfaces and providing stability even on smooth countertops.",
       "Constructed with heavy duty satin coated steel wires, this dish rack is designed to resist rusting and stand up to daily kitchen use. To maintain optimal rust resistance, dry the rack and drainboard after use.",
       "The angled drainboard directs water straight into the sink, preventing pooling and keeping countertops dry. The board and rack are precisely aligned for smooth water flow and easy cleaning."
@@ -499,12 +499,12 @@ const PRODUCTS = [
       "assets/images/b0gqm5vh3d_6.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0GQM5VH3D?tag=moderneaseliv-20",
-    "description": "Designed for modern homes. ⚡ 【𝗘𝗰𝗼-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗙𝗮𝘀𝘁 𝗖𝗵𝗮𝗿𝗴𝗲,𝗖𝗼𝗼𝗸 𝗙𝗿𝗲𝘀𝗵 𝗪𝗮𝗶𝘁 𝗟𝗲𝘀𝘀】This rechargeable salt and pepper grinder set powers up in just 5 minutes for an entire meal, while a full charge lasts up to 2 months. Ditch disposable batteries for hassle-free, eco-conscious cooking. A practical kitchen essential for everyday cooking, meal prep, family dinners, and home cooks. Perfect for elevating your daily routine.",
+    "description": "Designed for modern homes.  Eco-Friendly Fast Charge,Cook Fresh Wait LessThis rechargeable salt and pepper grinder set powers up in just 5 minutes for an entire meal, while a full charge lasts up to 2 months. Ditch disposable batteries for hassle-free, eco-conscious cooking. A practical kitchen essential for everyday cooking, meal prep, family dinners, and home cooks. Perfect for elevating your daily routine.",
     "bullets": [
-      "⚡ 【𝗘𝗰𝗼-𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗙𝗮𝘀𝘁 𝗖𝗵𝗮𝗿𝗴𝗲,𝗖𝗼𝗼𝗸 𝗙𝗿𝗲𝘀𝗵 𝗪𝗮𝗶𝘁 𝗟𝗲𝘀𝘀】This rechargeable salt and pepper grinder set powers up in just 5 minutes for an entire meal, while a full charge lasts up to 2 months. Ditch disposable batteries for hassle-free, eco-conscious cooking. A practical kitchen essential for everyday cooking, meal prep, family dinners, and home cooks.",
-      "🧂 【𝟲 𝗟𝗲𝘃𝗲𝗹 𝗘𝘅𝘁𝗲𝗿𝗶𝗼𝗿 𝗔𝗱𝗷𝘂𝘀𝘁𝗺𝗲𝗻𝘁 𝗳𝗼𝗿 𝗖𝗹𝗲𝗮𝗻 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻】Our external adjustment design lets you easily select the perfect coarseness without touching the grinding outlet, keeping your hands clean. With 6 grind settings, it easily meets different cooking needs. A thoughtful gift for women, men, mom, dad, couples, and cooking lovers for any special occasion.",
-      "🧂 【𝗪𝗶𝗱𝗲-𝗢𝗽𝗲𝗻𝗶𝗻𝗴 𝗟𝗮𝗿𝗴𝗲 𝗛𝗼𝗽𝗽𝗲𝗿, 𝗘𝗮𝘀𝘆 𝗙𝗶𝗹𝗹𝗶𝗻𝗴 & 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴】The 100ml (3.74oz) large hopper holds more spices and reduces frequent refills, while the wide opening makes filling and cleaning quick and easy. Perfect for housewarming gifts, new homes, apartments, wedding registries, and new homeowners.",
-      "💯 【𝗗𝘂𝗿𝗮𝗯𝗹𝗲 𝗖𝗲𝗿𝗮𝗺𝗶𝗰 𝗚𝗿𝗶𝗻𝗱𝗶𝗻𝗴 𝗖𝗼𝗿𝗲, 𝗣𝗿𝗲𝘀𝗲𝗿𝘃𝗲𝘀 𝗣𝘂𝗿𝗲 𝗙𝗹𝗮𝘃𝗼𝗿】High-hardness ceramic blades deliver even grinding while preserving the natural flavor of your spices. The included cleaning brush helps remove residue and prevent clogging. A modern kitchen gift for chefs, food lovers, friends, and family who enjoy smart kitchen gadgets."
+      " Eco-Friendly Fast Charge,Cook Fresh Wait LessThis rechargeable salt and pepper grinder set powers up in just 5 minutes for an entire meal, while a full charge lasts up to 2 months. Ditch disposable batteries for hassle-free, eco-conscious cooking. A practical kitchen essential for everyday cooking, meal prep, family dinners, and home cooks.",
+      " 6 Level Exterior Adjustment for Clean OperationOur external adjustment design lets you easily select the perfect coarseness without touching the grinding outlet, keeping your hands clean. With 6 grind settings, it easily meets different cooking needs. A thoughtful gift for women, men, mom, dad, couples, and cooking lovers for any special occasion.",
+      " Wide-Opening Large Hopper, Easy Filling & CleaningThe 100ml (3.74oz) large hopper holds more spices and reduces frequent refills, while the wide opening makes filling and cleaning quick and easy. Perfect for housewarming gifts, new homes, apartments, wedding registries, and new homeowners.",
+      " Durable Ceramic Grinding Core, Preserves Pure FlavorHigh-hardness ceramic blades deliver even grinding while preserving the natural flavor of your spices. The included cleaning brush helps remove residue and prevent clogging. A modern kitchen gift for chefs, food lovers, friends, and family who enjoy smart kitchen gadgets."
     ]
   },
   {
@@ -588,7 +588,7 @@ const PRODUCTS = [
       "2024 DOPAMINE COLOR IN OUR CHICKEN SHREDDER: Spring and Summer are coming soon, we choose some bright and vibrant colors to arouse people's inner joy and positive emotions. In daily life, a colorful meat shredder can convey happiness and a positive attitude toward life. Our chicken shredder is a new kitchen essential, which helps people take literally a couple of minutes to shred their food and no burnt fingers tips, it is an amazing tool",
       "MUST HAVE KITCHEN GADGETS & ANTI-SLIP: Our chicken shredder tool upgrade the inner shred structure and strong anti-slip strip, more effective and saves time, we do not worry about sliding away from our kitchen desks again. The flower appearance design and the transparent lid add polka dots seem like a beautiful flower to bloom. Warm Tips: the rubber strip can be taken apart by yourself, easy to clean, if the part is missing, you can purchase a new fitting in our store",
       "The meat machine builts-in plastic teeth that cover the whole area which can tightly clamp the food, the lid has extra spikes on the edge, which help meat gather the shredded meat in the middle, cutting it evenly. the tool is applied with an ergonomic handle and an anti-slip base, ensuring comfort and easy operation even during heavy use. These updated structure designs can make your cooking tasks more efficient",
-      "FOOD GRADE MATERIAL&DISHWASHER SAFE: The meat shredder tool twist is made of high-quality food grade material, BPA free and heat resistant up to 356℉. Never worry about your plastic chicken grinder shredder melting near the grill or in the dishwasher. The package comes with a cleaning brush, so we can wash it by hand and clean it easier. The instruction can guide us on how to shred chicken breast, please carefully read it"
+      "FOOD GRADE MATERIAL&DISHWASHER SAFE: The meat shredder tool twist is made of high-quality food grade material, BPA free and heat resistant up to 356°F. Never worry about your plastic chicken grinder shredder melting near the grill or in the dishwasher. The package comes with a cleaning brush, so we can wash it by hand and clean it easier. The instruction can guide us on how to shred chicken breast, please carefully read it"
     ]
   },
   {
@@ -723,9 +723,8 @@ const PRODUCTS = [
       "assets/images/b01gjomwyc_6.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B01GJOMWYC?tag=moderneaseliv-20",
-    "description": "Designed for modern homes. Please refer to user guide or user manual or user guide (provided below in PDF) before first use Perfect for elevating your daily routine.",
+    "description": "Designed for modern homes. ",
     "bullets": [
-      "Please refer to user guide or user manual or user guide (provided below in PDF) before first use",
       "Sneak-A-Cup - This feature temporarily stops the flow of coffee so you can pour your first cup before brewing ends without making a mess",
       "Easy-View Water Window - The front-facing window shows you the exact amount of water that will turn into coffee; Cord Storage: Yes",
       "Digital Controls with Rubberized Feel - Large, rubberized buttons give you full control of the coffeemaker, and the easy-read screen displays the clock, brew time, and programming options"
@@ -1179,7 +1178,7 @@ const PRODUCTS = [
   },
   {
     "id": "b07n7m4jvx",
-    "title": "DWËLLZA KITCHEN Airtight Food Storage Containers for Pantry",
+    "title": "DWËLLZA KITCHEN Airtight Food Storage Containers for Pantry",
     "category": "organizers",
     "categoryLabel": "Smart Organizers",
     "price": "$44.99",
@@ -1329,7 +1328,7 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/81mI5tTiswL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0B46NPJY9?tag=moderneaseliv-20",
-    "description": "- The plastic transparent design bins allows you to find what you need easily and quickly, saving a lot of searching time and keeping things tidy....",
+    "description": "The plastic transparent design bins allows you to find what you need easily and quickly, saving a lot of searching time and keeping things tidy....",
     "bullets": [
       "- The plastic transparent design bins allows you to find what you need easily and quickly, saving a lot of searching time and keeping things tidy. These clear fridge storage bins can be used in refrigerators, cabinets, pantries, bathrooms, bedrooms, offices, drawers, playrooms, kitchens and vanities, etc.",
       "Large boxes can also be stacked if you have covers. There are built-in handles on both sides of the edge of the fridge organizer set for easy movement. The bottom of clear organizer bins is ribbed on the outside and smooth on the inside. Pull it in or out for easy access to items without slipping.",
@@ -1408,7 +1407,7 @@ const PRODUCTS = [
   },
   {
     "id": "b0b932h337",
-    "title": "Amélie Home Chenille Knit Throw Blanket for Couch, Cream, 50\"x60\"",
+    "title": "Amélie Home Chenille Knit Throw Blanket for Couch, Cream, 50\"x60\"",
     "category": "living",
     "categoryLabel": "Cozy Living",
     "price": "$39.99",
@@ -1468,8 +1467,8 @@ const PRODUCTS = [
     "bullets": [
       "All-Season Comfort: This 50x60 inch orange / yellow throw blanket is perfect for use in spring, summer, fall, and winter. Lightweight but warm, it provides year-round comfort, making it ideal for any season",
       "Ultra-Soft & Cozy: Made with high-quality fleece material, this plush throw is fluffy, soft, and shedding-resistant, offering a comfy, cloud-like feel for maximum relaxation.",
-      "Cute & Aesthetic Design: With a neutral color and a unique bohemian pattern, this throw blanket adds a cute, aesthetic touch to your living room, bedroom, or any space in your home. Its farmhouse-inspired design is perfect for complementing any home décor.",
-      "Versatile & Decorative: Ideal for your sofa, couch, chair, or bed. This decorative blanket not only provides warmth but also enhances your home’s aesthetic with its stylish and neutral tone, blending seamlessly into various décor styles."
+      "Cute & Aesthetic Design: With a neutral color and a unique bohemian pattern, this throw blanket adds a cute, aesthetic touch to your living room, bedroom, or any space in your home. Its farmhouse-inspired design is perfect for complementing any home décor.",
+      "Versatile & Decorative: Ideal for your sofa, couch, chair, or bed. This decorative blanket not only provides warmth but also enhances your home’s aesthetic with its stylish and neutral tone, blending seamlessly into various décor styles."
     ]
   },
   {
@@ -1535,7 +1534,7 @@ const PRODUCTS = [
     "affiliateUrl": "https://www.amazon.com/dp/B0BXPF5D4T?tag=moderneaseliv-20",
     "description": "Holey Chunky Knit Blanket: Our chunky throw blanket is 100% hand knit with cute holes, the special holey feature and classic pattern make this...",
     "bullets": [
-      "Holey Chunky Knit Blanket: Our chunky throw blanket is 100% hand knit with cute holes, the special holey feature and classic pattern make this plush blanket breathable and a great art décor throw blanket for couch, bed, sofa and living room, bringing you warmth without overheating",
+      "Holey Chunky Knit Blanket: Our chunky throw blanket is 100% hand knit with cute holes, the special holey feature and classic pattern make this plush blanket breathable and a great art décor throw blanket for couch, bed, sofa and living room, bringing you warmth without overheating",
       "No Shedding, No Stiffness, No Prickly: Our soft thick blankets and throws are knitted with premium chenille yarn to prevent shedding and stiffness, on chilly days, wrap you and your loved ones in the chunky blanket and enjoy this cuddly throw together",
       "Six Sizes to Meet Different Needs: From the small size of 40 x 40 inches to the giant size of 80 x 90 inches, we offer 6 sizes in total to meet the needs of different people and occasions, before buying, please make sure you choose the right size you need",
       "Practical and Thoughtful Gift Ideas: Chunky knitted blanket is a sweet gift for everyone, classic chunky knit, exaggerated 'bulky' large ropes, super soft touch, making chunky knit blanket the first choice for Christmas holidays, anniversaries and birthdays"
@@ -1543,7 +1542,7 @@ const PRODUCTS = [
   },
   {
     "id": "b0cn8zl7js",
-    "title": "Chunky Knit Throw Blanket for Couch，50x60 Inches Cream",
+    "title": "Chunky Knit Throw Blanket for Couch,50x60 Inches Cream",
     "category": "living",
     "categoryLabel": "Cozy Living",
     "price": "$41.99",
@@ -1602,7 +1601,7 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/81TNuwgQ9GL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0FFTFS2MX?tag=moderneaseliv-20",
-    "description": ": Our luggage rack is fully assembled, no additional assembly is required, saving you time and effort. Simply open the packaging box and unfold...",
+    "description": "Our luggage rack is fully assembled, no additional assembly is required, saving you time and effort. Simply open the packaging box and unfold...",
     "bullets": [
       ": Our luggage rack is fully assembled, no additional assembly is required, saving you time and effort. Simply open the packaging box and unfold the luggage rack. Place it where you want and enjoy the extra storage and organization it provides.",
       ": The suitcase stand is made of high-quality bamboo and 5 removable heavy-duty durable nylon straps (2\"W). The luggage stand surface is very smooth and the edges are rounded, which is both stylish and durable, and not easy to bend after long-term use. The X-shaped structure makes it more stable on the floor and will not shake or tip over.",
@@ -1625,7 +1624,7 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/91fkuoCW-nL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0DLW514V1?tag=moderneaseliv-20",
-    "description": ": Our luggage rack is fully assembled, no additional assembly is required, saving you time and effort. Simply open the packaging box and unfold...",
+    "description": "Our luggage rack is fully assembled, no additional assembly is required, saving you time and effort. Simply open the packaging box and unfold...",
     "bullets": [
       ": Our luggage rack is fully assembled, no additional assembly is required, saving you time and effort. Simply open the packaging box and unfold the luggage rack. Place it where you want and enjoy the extra storage and organization it provides.",
       ": The suitcase stand is made of high-quality bamboo and 5 removable heavy-duty durable nylon straps. The luggage stand surface is very smooth and the edges are rounded, which is both stylish and durable, and not easy to bend after long-term use. The X-shaped structure makes it more stable on the floor and will not shake or tip over.",
@@ -1671,7 +1670,7 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/81vVPRTkdtL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0F52VS97T?tag=moderneaseliv-20",
-    "description": ": Enjoy instant convenience with our fully assembled luggage rack - no tools, no complicated instructions, and absolutely no assembly required....",
+    "description": "Enjoy instant convenience with our fully assembled luggage rack - no tools, no complicated instructions, and absolutely no assembly required....",
     "bullets": [
       ": Enjoy instant convenience with our fully assembled luggage rack - no tools, no complicated instructions, and absolutely no assembly required. Designed for effortless use, it arrives 100% ready to go, saving you valuable time and energy",
       ": Measuring 26.77in W x 16.93in D x 22.5in H, our luggage rack for suitcase offers width to securely hold larger suitcases: 24in, 26in, or 28in. Folding size is just 26.77 \" W x 2.91\" D x 27.04\" H,slim enough to be stored behind doors, under beds, tight closets",
@@ -1878,9 +1877,9 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/71Tt9XCOa8L._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0CR9ZJNV1?tag=moderneaseliv-20",
-    "description": "Easily unpack & pack：Designed with our guests' needs in mind, Give your hotel guests a place to store and unpack their suitcases with this luggage...",
+    "description": "Easily unpack & pack:Designed with our guests' needs in mind, Give your hotel guests a place to store and unpack their suitcases with this luggage...",
     "bullets": [
-      "Easily unpack & pack：Designed with our guests' needs in mind, Give your hotel guests a place to store and unpack their suitcases with this luggage rack! Make sure the floor space of our room is kept clean and tidy. Enhance the convenience and comfort of your guest with this suitcase stand.",
+      "Easily unpack & pack:Designed with our guests' needs in mind, Give your hotel guests a place to store and unpack their suitcases with this luggage rack! Make sure the floor space of our room is kept clean and tidy. Enhance the convenience and comfort of your guest with this suitcase stand.",
       "Sturdy yet Stylish: Made with 100% solid bamboo and 5 durable heavy-duty nylon straps, Supports up to 120 lbs on top shelf and 20 lbs for lower shelf. This luggage rack for guest room offers a sturdy construction that can support heavy suitcases while adding a touch of sleek style to your guest room decor.",
       "Foldable Design: The folding luggage racks are very lightweight and fold up for easy, compact storage. A set of suitcase holders can hold 24”, 26”, or 28”suitcases. Standing at 26.6”L x 18.1”W x 20.5”H and folded to 26.4”L x 3.5”W x 26.6”H. The additional lower shelf provides extra storage space for shoes, bags, or other small items.",
       "Versatile Use: This suitcase stands for guest room is not only suitable for guest rooms but can also be utilized in bedrooms, closets, or even as a display rack for any area where additional storage is needed. luggage stand are perfect for any motel, hotel, vacation rental, or conference center"
@@ -1947,7 +1946,7 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/61wmFAINqOL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0716SZMN9?tag=moderneaseliv-20",
-    "description": "- Owning 500W powerful motor, then its kneading could keep as low as 80 decibels. Having 6 speed control for your various need.",
+    "description": "Owning 500W powerful motor, then its kneading could keep as low as 80 decibels. Having 6 speed control for your various need.",
     "bullets": [
       "- Owning 500W powerful motor, then its kneading could keep as low as 80 decibels. Having 6 speed control for your various need.",
       "- Food grade stainless steel 5.3-QT removable bowl, makes it enough to mix dough or others food from 0.44 pounds to 3.3 pounds.",
@@ -2064,7 +2063,7 @@ const PRODUCTS = [
     "affiliateUrl": "https://www.amazon.com/dp/B0FMJCCJBD?tag=moderneaseliv-20",
     "description": "Brand new upgrade. This kitchen mixer has an electronic screen display, 8-speed and 15-minute adjustment, access to multipurpose and a variety of...",
     "bullets": [
-      "Brand new upgrade. This kitchen mixer has an electronic screen display, 8-speed and 15-minute adjustment, access to multipurpose and a variety of recipes. After clicking power on, press speed/time, increase or decrease the time and speed by twisting the knob, and then click power-on again to start the machine.(For specific operations, please refer to the Operation Guide section of the manual)",
+      "Brand new upgrade. This kitchen mixer has an electronic screen display, 8-speed and 15-minute adjustment, access to multipurpose and a variety of recipes. After clicking power on, press speed/time, increase or decrease the time and speed by twisting the knob, and then click power-on again to start the machine.",
       "650W high performance metal gears motor and sturdy ABS housing for perfect mixing result and heavy duty. Built-in chip sensor temperature automatically shut down when overheating.",
       "Our dough mixer with 5.3Qt food grade stainless steel bowl can meet all your kitchen needs, enough to prepare for making cakes, breads, cookies, muffins waffle and more recipes. The splash guard with access port helps add ingredients without making a mess, allowing you to cook at great ease.",
       "CUSIMAX stand mixer comes with three mixing accessories: wire whip, dough hook and beater which are easily secured to the shaft, adding mixing versatility to cooking. The tilt-head with handle design mixer allows access to install or uninstall bowl and accessories easily, while also making it easier to move the machine. Anti-slip silicone suction cups keep the mixer steady."
@@ -2204,7 +2203,7 @@ const PRODUCTS = [
     "bullets": [
       "Trivets for hot dishes is made of wood and consists of 4 pieces of trivet + 1 bracket to Prevents damage to countertops and table tops",
       "Each wooden trivets for hot dishes has six small wooden pieces, take one from the bracket and put it directly on the desktop, no need to flatten it in advance, directly to carry the apparatus from the top and slowly put it down, because of gravity, it will automatically unfold and play its due role, every time you use it, it is an interesting experience!",
-      "Wooden trivets in original wood color， work through different high temperature appliances, may form different black marks, in the long run, will form a special pattern, these patterns record your good times",
+      "Wooden trivets in original wood color, work through different high temperature appliances, may form different black marks, in the long run, will form a special pattern, these patterns record your good times",
       "When used as a coaster can also be used as a trivets for hot pots and pans , stored like a Christmas tree, takes up little space and looks good, you can give it to your friend and family as a holiday or birthday gift, as a gift is a great choice!"
     ]
   },
@@ -2292,12 +2291,12 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/71IVjoy4UCL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0DJSQQ1ZW?tag=moderneaseliv-20",
-    "description": "★You know that moment when flavor feels just a bit off? Our 5 adjustable levels bring precision to every meal—fine for soups and dressings, coarse...",
+    "description": "You know that moment when flavor feels just a bit off? Our 5 adjustable levels bring precision to every meal—fine for soups and dressings, coarse...",
     "bullets": [
-      "★You know that moment when flavor feels just a bit off? Our 5 adjustable levels bring precision to every meal—fine for soups and dressings, coarse for steak and BBQ. Each turn delivers even, consistent seasoning so you can cook with confidence. A kitchen essential that also makes a thoughtful housewarming gift",
-      "★When cooking has your hands full, one-hand operation keeps things easy—press to grind, release to stop. Powered by 𝟰 𝗔𝗔𝗔 𝗯𝗮𝘁𝘁𝗲𝗿𝗶𝗲𝘀 (𝗻𝗼𝘁 𝗶𝗻𝗰𝗹𝘂𝗱𝗲𝗱), this smart kitchen tool adds effortless convenience. Ideal for limited hand mobility or as a Christmas gift for seniors, bringing ease to every meal",
-      "★Ever cooked or grilled under dim light and ended up guessing the seasoning? Our electric salt and pepper grinder set with built-in LED light brightens every sprinkle, letting you see exactly how much you add. Perfect for camping, BBQ nights, or evening cooking, it helps every dish hit the right flavor. A perfect Christmas or birthday gift for men who love to grill",
-      "★Durable ceramic blades resist wear and heat, staying sharp for smooth, even grinding over time. They come with a cleaning brush for easy maintenance and to prevent clogging, keeping performance consistent every time. It's a long-lasting kitchen essential and one of the most practical wedding registry items or housewarming gifts, built to last for years"
+      "You know that moment when flavor feels just a bit off? Our 5 adjustable levels bring precision to every meal—fine for soups and dressings, coarse for steak and BBQ. Each turn delivers even, consistent seasoning so you can cook with confidence. A kitchen essential that also makes a thoughtful housewarming gift",
+      "When cooking has your hands full, one-hand operation keeps things easy—press to grind, release to stop. Powered by 4 AAA batteries (not included), this smart kitchen tool adds effortless convenience. Ideal for limited hand mobility or as a Christmas gift for seniors, bringing ease to every meal",
+      "Ever cooked or grilled under dim light and ended up guessing the seasoning? Our electric salt and pepper grinder set with built-in LED light brightens every sprinkle, letting you see exactly how much you add. Perfect for camping, BBQ nights, or evening cooking, it helps every dish hit the right flavor. A perfect Christmas or birthday gift for men who love to grill",
+      "Durable ceramic blades resist wear and heat, staying sharp for smooth, even grinding over time. They come with a cleaning brush for easy maintenance and to prevent clogging, keeping performance consistent every time. It's a long-lasting kitchen essential and one of the most practical wedding registry items or housewarming gifts, built to last for years"
     ]
   },
   {
@@ -2708,7 +2707,7 @@ const PRODUCTS = [
     "affiliateUrl": "https://www.amazon.com/dp/B0CPJH43XJ?tag=moderneaseliv-20",
     "description": "12PCS Candle Holders: With a variety of color combinations including amber, orange and green, our set of 12 glass candlestick holders effortlessly...",
     "bullets": [
-      "12PCS Candle Holders: With a variety of color combinations including amber, orange and green, our set of 12 glass candlestick holders effortlessly complement any table setting or décor style. Whether it's a formal dinner or a casual gathering, these candle stick holders add a fall touch of sophistication to any occasion",
+      "12PCS Candle Holders: With a variety of color combinations including amber, orange and green, our set of 12 glass candlestick holders effortlessly complement any table setting or décor style. Whether it's a formal dinner or a casual gathering, these candle stick holders add a fall touch of sophistication to any occasion",
       "Candle Sticks Holders: Each candle holder stands at 2.3 inches tall and accommodates candlesticks with a diameter of less than 0.8 inches, these holders are perfect for a taper candle, candlesticks, tealight candles. Adorned with delicate ribbed stripes, our candlestick holders set boast a timeless aesthetic that exudes refinement",
       "Glass Tapered Candle Holder: Crafted from heavy glass, glass candle holder not only provide sturdy support for your candles but also showcase a classic style. Whether you're hosting a grand event or enjoying a quiet evening at home, you can trust in the durability and elegance of our taper candlesticks to enhance any setting",
       "Wedding Table Decor: Make your special day truly memorable with our exquisite vintage candlestick holders. Perfect for wedding table decorations, these bulk candle holders add a romantic glow to your ceremony or reception, creating an atmosphere of love and celebration"
@@ -2780,7 +2779,7 @@ const PRODUCTS = [
       "Add a vintage-inspired touch to your decor with NUPTIO's wooden candlestick holder, featuring a white washed finish and elegant construction. Each taper candle holder is unique due to natural color variations in the wood",
       "Crafted with solid pine wood and are designed with a wider base than standard holders, these candle stick holders provide lightweight yet superior stability to keep your candles securely in place. Plus, the black metal cup inside each holder eliminates fire hazards, giving you peace of mind while you enjoy the warm glow of your candles",
       "NUPTIO rustic wooden candlestick holders come in three sizes, Small-3.7\"/9.5cm, Medium-5.8\"/14.8cm, Large-7.8\"/19.8cm High, with a wide base diameter of 3.35\"/8.5cm, adding elegance to any room. Each candlestick can hold taper candles up to 0.87\"/2.2cm in diameter (candles not included)",
-      "NUPTIO's candlestick holder adds a touch of sophistication to any setting. Perfect for weddings, parties, holidays, and home décor, this vintage candle holder makes a great gift for any occasion. Use it to add a rustic flair to your dining table, living room, fireplace mantel, entryway display, and more"
+      "NUPTIO's candlestick holder adds a touch of sophistication to any setting. Perfect for weddings, parties, holidays, and home décor, this vintage candle holder makes a great gift for any occasion. Use it to add a rustic flair to your dining table, living room, fireplace mantel, entryway display, and more"
     ]
   },
   {
@@ -2844,7 +2843,7 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/81Mg0G51mEL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0H2DQZX28?tag=moderneaseliv-20",
-    "description": ": This collection features six glass candlestick holders, Each piece showcases a distinct pattern, making every holder unique. Choose from...",
+    "description": "This collection features six glass candlestick holders, Each piece showcases a distinct pattern, making every holder unique. Choose from...",
     "bullets": [
       ": This collection features six glass candlestick holders, Each piece showcases a distinct pattern, making every holder unique. Choose from 6-piece, 12-piece, or 24-piece sets to perfectly match your table size and event needs.",
       ": Candlestick heights range from 2.2 inches to 4.3 inches (2.2\", 2.4\", 2.4\", 4.1\", 4.1\", and 4.3\"). Each holder accommodates standard taper candles with a diameter of less than 0.8 inches. The varied heights create dynamic, eye-catching arrangements.",
@@ -2935,9 +2934,9 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/81S+7vNr5wL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0DS8PQVXB?tag=moderneaseliv-20",
-    "description": "[Turn Your Coffee Corner into a Café Experience] Imagine starting your day with a perfectly organized coffee bar organizer, where every K cup, tea...",
+    "description": "[Turn Your Coffee Corner into a Café Experience] Imagine starting your day with a perfectly organized coffee bar organizer, where every K cup, tea...",
     "bullets": [
-      "[Turn Your Coffee Corner into a Café Experience] Imagine starting your day with a perfectly organized coffee bar organizer, where every K cup, tea bag, sugar packet, and coffee pod is neatly arranged and ready to go. No more frantic searches—just pure coffee bliss, every single morning!",
+      "[Turn Your Coffee Corner into a Café Experience] Imagine starting your day with a perfectly organized coffee bar organizer, where every K cup, tea bag, sugar packet, and coffee pod is neatly arranged and ready to go. No more frantic searches—just pure coffee bliss, every single morning!",
       "[A Thoughtful Design for Effortless Mornings] Ever struggled to grab the last coffee pod or tea bag from the bottom of a cluttered drawer? This coffee organizer station making it easy to pick up every last piece—no more digging, no more hassle, just quick and easy access to your favorite brew.",
       "[Crafted for Style & Durability] Made from solid wood and sturdy metal mesh, this coffee station organizer for countertop isn’t just another storage unit—it’s a statement piece. The food-safe finish means you can store coffee cups, creamers, and tea bags worry-free, while its stylish look elevates any coffee nook.",
       "[Designed to Fit into Your Life, Effortlessly] Whether you’re setting up a cozy home coffee bar, upgrading your office breakroom, or adding convenience to a hotel lobby, this coffee bar organizer for countertop blends in seamlessly. It keeps all your essentials within reach while saving precious space."
@@ -3298,9 +3297,9 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/71jrH-6GypL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B0GLGNX34C?tag=moderneaseliv-20",
-    "description": "[Turn Your Coffee Corner into a Café Experience] Imagine starting your day with a perfectly organized coffee bar organizer, where tea bag, sugar...",
+    "description": "[Turn Your Coffee Corner into a Café Experience] Imagine starting your day with a perfectly organized coffee bar organizer, where tea bag, sugar...",
     "bullets": [
-      "[Turn Your Coffee Corner into a Café Experience] Imagine starting your day with a perfectly organized coffee bar organizer, where tea bag, sugar packet, and coffee pod is neatly arranged and ready to go. No more frantic searches—just pure coffee bliss, every single morning!",
+      "[Turn Your Coffee Corner into a Café Experience] Imagine starting your day with a perfectly organized coffee bar organizer, where tea bag, sugar packet, and coffee pod is neatly arranged and ready to go. No more frantic searches—just pure coffee bliss, every single morning!",
       "[A Thoughtful Design for Effortless Mornings] Ever struggled to grab the last coffee pod or tea bag from the bottom of a cluttered drawer? This coffee organizer station making it easy to pick up every last piece—no more digging, no more hassle, just quick and easy access to your favorite brew.",
       "[Crafted for Style & Durability] Made from solid wood and sturdy metal mesh, this coffee station organizer for countertop isn’t just another storage unit—it’s a statement piece. The food-safe finish means you can store coffee cups, creamers, and tea bags worry-free, while its stylish look elevates any coffee nook.",
       "[Designed to Fit into Your Life, Effortlessly] Whether you’re setting up a cozy home coffee bar, upgrading your office breakroom, or adding convenience to a hotel lobby, this coffee bar organizer for countertop blends in seamlessly. It keeps all your essentials within reach while saving precious space."
@@ -3414,7 +3413,7 @@ const PRODUCTS = [
     "description": "They are rectangle: (35.1oz) & (22oz), square: (27oz) & (17.6oz), which meet your family needs, the two large glass containers are useful for meal...",
     "bullets": [
       "They are rectangle: (35.1oz) & (22oz), square: (27oz) & (17.6oz), which meet your family needs, the two large glass containers are useful for meal prep, on the go food, lunch for work, leftover; and the small size is perfect for a picnic, fruits storage, dry food storage.",
-      "Made of borosilicate glass, the food containers can be used in Oven/ Microwave/ Dishwasher WITHOUT LIDS, which is able to withstand -4℉ to 752℉ (-20℃ – 400℃), and they are also used in fridge with lids in 3-5days, which help you keep leftover and next day lunch, enjoy a health life.",
+      "Made of borosilicate glass, the food containers can be used in Oven/ Microwave/ Dishwasher WITHOUT LIDS, which is able to withstand -4°F to 752°F (-20°C – 400°C), and they are also used in fridge with lids in 3-5days, which help you keep leftover and next day lunch, enjoy a health life.",
       "The glass food containers is 100% BPA Free, crystal-clear glass making it easy to see what's inside. Stains-resistant material for easy cleaning and keep glass containers looks like new.",
       "It's more than a lids, the stylish bamboo lids can be used as a cutting board for cheese, vagetables, fruits and more. The silicone seals is better for keeping food fresh. Please keep the bamboo lids dry after washing with water, and NOT recommend for any fluid food or soup or overfilling the food in containers."
     ]
@@ -3439,7 +3438,7 @@ const PRODUCTS = [
       "Crafted with sustainably sourced bamboo lids and premium glass bodies for a naturally elegant, planet-smart food storage solution.Reusable glass containers help reduce single-use plastic waste. Bamboo is a fast-growing, renewable resource.",
       "Perfectly transitions from fridge/freezer storage to oven reheating, meal prep, pantry organization, or stylishly serving snacks and salads.",
       "It's more than a lids, the stylish bamboo lids can be used as a cutting board for cheese, vagetables, fruits and more. Please keep the bamboo lids dry after washing with water, and NOT recommend for any fluid food or soup or overfilling the food in containers.",
-      "Made of borosilicate glass, the food containers can be used in Oven/ Microwave/ Dishwasher WITHOUT LIDS, which is able to withstand -4℉ to 752℉ (-20℃ – 400℃), which help you keep leftover and next day lunch, enjoy a health life."
+      "Made of borosilicate glass, the food containers can be used in Oven/ Microwave/ Dishwasher WITHOUT LIDS, which is able to withstand -4°F to 752°F (-20°C – 400°C), which help you keep leftover and next day lunch, enjoy a health life."
     ]
   },
   {
@@ -3480,12 +3479,12 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/91Q1kJbonsL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B084H7K9LY?tag=moderneaseliv-20",
-    "description": "✅ MEETS YOUR STORAGE NEEDS - Made of borosilicate, the strongest glass available, our kitchen ware can withstand temperatures of up to 520°F. They...",
+    "description": "MEETS YOUR STORAGE NEEDS - Made of borosilicate, the strongest glass available, our kitchen ware can withstand temperatures of up to 520°F. They...",
     "bullets": [
-      "✅ MEETS YOUR STORAGE NEEDS - Made of borosilicate, the strongest glass available, our kitchen ware can withstand temperatures of up to 520°F. They are freezer, microwave, oven, and dishwasher-safe (Not the lids).",
-      "✅ ECO-CONSCIOUS MATERIALS - Our containers are absolutely plastic-free. We make sure all the materials we use are kind to nature--from the box down to the silicone seal that keeps our lids airtight!",
-      "✅ DUAL-PURPOSE BAMBOO LID - Get 4 x 36oz containers sized 7.75 x 5.75 x 2.3 inches . The beautiful tight-fitting bamboo lids also function as cutting boards, while the leakproof cover ensures no spills.",
-      "✅ WE CARE ABOUT YOUR HEALTH - No need to worry about food, odor, or irritants seeping into these nonporous glass containers. Designed to safeguard your health, they are non-toxic and BPA-free."
+      " MEETS YOUR STORAGE NEEDS - Made of borosilicate, the strongest glass available, our kitchen ware can withstand temperatures of up to 520°F. They are freezer, microwave, oven, and dishwasher-safe (Not the lids).",
+      " ECO-CONSCIOUS MATERIALS - Our containers are absolutely plastic-free. We make sure all the materials we use are kind to nature--from the box down to the silicone seal that keeps our lids airtight!",
+      " DUAL-PURPOSE BAMBOO LID - Get 4 x 36oz containers sized 7.75 x 5.75 x 2.3 inches . The beautiful tight-fitting bamboo lids also function as cutting boards, while the leakproof cover ensures no spills.",
+      " WE CARE ABOUT YOUR HEALTH - No need to worry about food, odor, or irritants seeping into these nonporous glass containers. Designed to safeguard your health, they are non-toxic and BPA-free."
     ]
   },
   {
@@ -3531,7 +3530,7 @@ const PRODUCTS = [
       "2178ml(74oz)、1100ml(37oz)、888ml(30oz)、800ml(27oz)、577ml(20oz)、500ml(17oz)、431ml(15oz). The glass jars are perfect choice for different kinds of dry food storage.",
       "The bamboo lids has durable silicone sealing rings for preventing the entrance of air and keep food dry, and it also does not make a sound or scratch the glass jar when the lid is lifted.",
       "7 pieces glass food containers with different volume meet you various storage need. They can collect pasta, nuts, flour, candies, cereals, spices and other small things. Your pantry and kitchen will look well-organized with these containers!",
-      "The glass jar is made of high borosilicate that can resist the high temperature by 570℉ and has no low temperature limit. You can put them in your kitchen, pantry, living room or refrigerator."
+      "The glass jar is made of high borosilicate that can resist the high temperature by 570°F and has no low temperature limit. You can put them in your kitchen, pantry, living room or refrigerator."
     ]
   },
   {
@@ -3576,7 +3575,7 @@ const PRODUCTS = [
     "bullets": [
       "Spacious Glass Food Storage Set: includes four containers(41/ 27/ 18/ 11 oz) with bamboo lids to meet your family's needs; Perfect for preparing and storing multiple dishes separately; Keeps food fresh, prevents odors, and extends shelf life",
       "Reliable Materials: crafted from crystal-clear, heat-resistant borosilicate glass, these containers are sturdy and transparent for easy content identification; Stain-resistant and durable, the containers maintain their new look over time; The food-grade bamboo lids ensure culinary safety while adding a warm, natural touch to your kitchen; The sealing silicone ring ensures leak-proof storage",
-      "Versatile Use in Various Appliances: these borosilicate glass containers are oven, microwave, and dishwasher safe (without lids), enduring temperatures from -4℉ to 752℉ (-20℃ to 400℃); Good for refrigerating meals and leftovers to enjoy a healthy lifestyle",
+      "Versatile Use in Various Appliances: these borosilicate glass containers are oven, microwave, and dishwasher safe (without lids), enduring temperatures from -4°F to 752°F (-20°C to 400°C); Good for refrigerating meals and leftovers to enjoy a healthy lifestyle",
       "Space-saving Stackable Design: efficiently utilize vertical space in cabinets and refrigerators with a stackable design; The compact lid structure ensures stable, organized stacking, ideal for those who prioritize organization and style"
     ]
   },
@@ -3707,12 +3706,12 @@ const PRODUCTS = [
       "https://m.media-amazon.com/images/I/71unwSDppDL._AC_SL1200_.jpg"
     ],
     "affiliateUrl": "https://www.amazon.com/dp/B083H6C2LQ?tag=moderneaseliv-20",
-    "description": "✅ PREMIUM BOROSILICATE GLASS AND BAMBOO QUALITY: Our glass container made of high quality borosilicate glass with smooth and beautifully polished...",
+    "description": "PREMIUM BOROSILICATE GLASS AND BAMBOO QUALITY: Our glass container made of high quality borosilicate glass with smooth and beautifully polished...",
     "bullets": [
-      "✅ PREMIUM BOROSILICATE GLASS AND BAMBOO QUALITY: Our glass container made of high quality borosilicate glass with smooth and beautifully polished Bamboo Lids in set of 5 Pack, total 10pcs. Our bamboo lids are strong, durable and Eco-friendly. They're plastic free, BPA free, phthalate free. Make heathy products a part of your every day life!",
-      "✅ ALL-IN-ONE USE: Simply use our glass container for meal prep, our 5 different sizes give you generous for storage space for all needs, straight from the food prep to the oven cook. Our borosilicate glass is oven safe up to extremely high temperature 600F degree, server the delicious meal for lunch or dinner after cooking then storage the leftover in the container with airtight bamboo lids in the fridge. You can also use as a lunch box and to warm in microwave or oven for the next day.",
-      "✅ ULTRA VERSATILE: Our glass container safe in oven, microwave, fridge, freezer and dishwasher. They could use as meal prep, lunch box, butter dish and oven cooking pan. Our bamboo lids are stylish and work great as small cutting board for cheese, vegetables etc. The non-reactive clear glass resists stains, food adores, it’s nonporous, worry free of germs, or even smells seeping into your glass containers. The same can’t be said for plastic!",
-      "✅10 PIECES IN 5 SIZES: Unlike most 4 packs, our 5 packs set includes one extra small size use for baby food or mini sauce bowl. Size is from 4oz (4.1x2.8x1.65) , 12OZ(5.7x4.1x1.8in), 21OZ (6.6x4.8x2.1in), 31OZ(7.7x5.7x2.4in), 50OZ(8.7x6.5x2.6in) and each with their own bamboo lid. We also offer an XXL Size 76OZ (9.7x7.7x3.0) you can order separately; it is a great choice to cook or store a large portion of food."
+      " PREMIUM BOROSILICATE GLASS AND BAMBOO QUALITY: Our glass container made of high quality borosilicate glass with smooth and beautifully polished Bamboo Lids in set of 5 Pack, total 10pcs. Our bamboo lids are strong, durable and Eco-friendly. They're plastic free, BPA free, phthalate free. Make heathy products a part of your every day life!",
+      " ALL-IN-ONE USE: Simply use our glass container for meal prep, our 5 different sizes give you generous for storage space for all needs, straight from the food prep to the oven cook. Our borosilicate glass is oven safe up to extremely high temperature 600F degree, server the delicious meal for lunch or dinner after cooking then storage the leftover in the container with airtight bamboo lids in the fridge. You can also use as a lunch box and to warm in microwave or oven for the next day.",
+      " ULTRA VERSATILE: Our glass container safe in oven, microwave, fridge, freezer and dishwasher. They could use as meal prep, lunch box, butter dish and oven cooking pan. Our bamboo lids are stylish and work great as small cutting board for cheese, vegetables etc. The non-reactive clear glass resists stains, food adores, it’s nonporous, worry free of germs, or even smells seeping into your glass containers. The same can’t be said for plastic!",
+      "10 PIECES IN 5 SIZES: Unlike most 4 packs, our 5 packs set includes one extra small size use for baby food or mini sauce bowl. Size is from 4oz (4.1x2.8x1.65) , 12OZ(5.7x4.1x1.8in), 21OZ (6.6x4.8x2.1in), 31OZ(7.7x5.7x2.4in), 50OZ(8.7x6.5x2.6in) and each with their own bamboo lid. We also offer an XXL Size 76OZ (9.7x7.7x3.0) you can order separately; it is a great choice to cook or store a large portion of food."
     ]
   }
 ];
